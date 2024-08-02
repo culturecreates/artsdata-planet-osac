@@ -40,8 +40,11 @@ jobs:
     needs: fetch-and-commit-data
     strategy:
       matrix:
-        artifact: [performing-arts, visual-media-arts]
-        file: [performance.jsonld, exhibition.jsonld]
+        include:
+          - artifact: performing-arts
+            file: performance.jsonld
+          - artifact: visual-media-arts
+            file: exhibition.jsonld
     steps:
     - name: Action setup
       uses: culturecreates/artsdata-pipeline-action@v1.1.0
