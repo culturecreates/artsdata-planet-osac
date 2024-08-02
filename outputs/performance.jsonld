@@ -320,90 +320,7 @@
     ]
   },
   {
-    "@id": "_:g459100",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Amy Nelson"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-01T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-01T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8762/amy-nelson-macklin-arts-council"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8762"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/AmyNelson.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g459120"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Amy Nelson is a versatile performer, from trios to full bands. She plays original country tunes and covers, customizing her sets for each crowd. Amy, a multi-instrumentalist, often spotlights her vocals. Known for her lively personality and engaging  [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g459140"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g459160"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g459180"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g459220"
-      }
-    ]
-  },
-  {
-    "@id": "_:g459120",
+    "@id": "_:g459140",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -425,7 +342,7 @@
     ]
   },
   {
-    "@id": "_:g459140",
+    "@id": "_:g459160",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -436,7 +353,7 @@
     ]
   },
   {
-    "@id": "_:g459160",
+    "@id": "_:g459180",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -452,7 +369,7 @@
     ]
   },
   {
-    "@id": "_:g459180",
+    "@id": "_:g459200",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -463,7 +380,7 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g459200"
+        "@id": "_:g459220"
       }
     ],
     "http://schema.org/address": [
@@ -474,22 +391,6 @@
   },
   {
     "@id": "_:g459220",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g459200",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -505,34 +406,18 @@
     ]
   },
   {
-    "@id": "_:g460120",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460140",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460640",
+    "@id": "_:g459240",
     "@type": [
-      "https://schema.org/Article"
+      "http://schema.org/AggregateRating"
     ],
-    "https://schema.org/inLanguage": [
+    "http://schema.org/ratingValue": [
       {
-        "@value": "en-GB"
+        "@value": "5"
       }
     ],
-    "https://schema.org/articleBody": [
+    "http://schema.org/reviewCount": [
       {
-        "@value": "\n        Amy Nelson\n            \n    \n            \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nFri, Feb 28, 2025 @ 7:30 pm @ Macklin Credit Union Legacy CenterCommunity: Macklin Arts CouncilArtist Website: www.amynelson.caTicket Info \n  \n\t\t\t\t  \n\t\t\t\t Amy Nelson is a versatile performer, from trios to full bands. She plays original country tunes and covers, customizing her sets for each crowd. Amy, a multi-instrumentalist, often spotlights her vocals. Known for her lively personality and engaging conversations, she makes audiences part of the show. Hailing from Saskatchewan, she's played across Canada, from house concerts to big stages like the Calgary Stampede. Amy's music has reached global audiences, including Trafalgar Square in the UK and the Gympie Music Muster in Australia. She's showcased her talent at events like Canadian Music Week, BreakOut West, JunoFest, AmericanaFest, and Australian Music Week.AppearancesDatePresented ByTicketsFri, Feb 28, 2025 @ 7:30 pmMacklin Arts CouncilTicket Info    "
+        "@value": "1000"
       }
     ]
   },
@@ -586,90 +471,7 @@
     ]
   },
   {
-    "@id": "_:g460740",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Ballet Jorgen - Sleeping Beauty"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-05T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-05T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8860/ballet-jorgen-sleeping-beauty-la-ronge-arts-council"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8860"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/SleepingBeauty.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g460760"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "In the 2024/2025 season, Ballet Jorgen will be performing in La Ronge for the first time ever! Sleeping Beauty is one of the world's most famous classical ballets, featured in the repertoire of virtually every major company. After more than 30 succes [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g460780"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g460800"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g460820"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g460860"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460760",
+    "@id": "_:g460780",
     "@type": [
       "http://schema.org/PerformingGroup"
     ],
@@ -694,7 +496,7 @@
     ]
   },
   {
-    "@id": "_:g460780",
+    "@id": "_:g460800",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -705,7 +507,7 @@
     ]
   },
   {
-    "@id": "_:g460800",
+    "@id": "_:g460820",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -721,7 +523,7 @@
     ]
   },
   {
-    "@id": "_:g460820",
+    "@id": "_:g460840",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -732,7 +534,7 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g460840"
+        "@id": "_:g460860"
       }
     ],
     "http://schema.org/address": [
@@ -749,22 +551,6 @@
   {
     "@id": "_:g460860",
     "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460840",
-    "@type": [
       "http://schema.org/GeoCoordinates"
     ],
     "http://schema.org/latitude": [
@@ -780,33 +566,17 @@
   },
   {
     "@id": "_:g460880",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460900",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461140",
     "@type": [
-      "https://schema.org/Article"
+      "http://schema.org/AggregateRating"
     ],
-    "https://schema.org/inLanguage": [
+    "http://schema.org/ratingValue": [
       {
-        "@value": "en-GB"
+        "@value": "5"
       }
     ],
-    "https://schema.org/articleBody": [
+    "http://schema.org/reviewCount": [
       {
-        "@value": "\n        Ballet Jorgen - Sleeping Beauty\n            \n    \n            \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nTue, Mar 4, 2025 @ 7:30 pm @ Churchill Community High SchoolCommunity: La Ronge Arts CouncilArtist Website: https://www.jorgendance.ca/Ticket Info \n  \n\t\t\t\t  \n\t\t\t\t In the 2024/2025 season, Ballet Jorgen will be performing in La Ronge for the first time ever! Sleeping Beauty is one of the world's most famous classical ballets, featured in the repertoire of virtually every major company. After more than 30 successful years, Ballet Jorgen presents its own unique classical rendition. This captivating ballet tells the enchanting story of Aurora and her prince, showcasing magical qualities and dazzling choreography. OSAC is thrilled to bring the magic of ballet to new Saskatchewan communities.AppearancesDatePresented ByTicketsTue, Mar 4, 2025 @ 7:30 pmLa Ronge Arts CouncilTicket Info    "
+        "@value": "1000"
       }
     ]
   },
@@ -860,90 +630,7 @@
     ]
   },
   {
-    "@id": "_:g461240",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Becoming the Beatles"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-14T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-14T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8859/becoming-the-beatles-e-a-rawlinson-centre"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8859"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/BecomingtheBeatles.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g461260"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beat [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g461280"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g461300"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g461320"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g461360"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461260",
+    "@id": "_:g461280",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -962,7 +649,7 @@
     ]
   },
   {
-    "@id": "_:g461280",
+    "@id": "_:g461300",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -973,7 +660,7 @@
     ]
   },
   {
-    "@id": "_:g461300",
+    "@id": "_:g461320",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -989,7 +676,7 @@
     ]
   },
   {
-    "@id": "_:g461320",
+    "@id": "_:g461340",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1000,7 +687,7 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g461340"
+        "@id": "_:g461360"
       }
     ],
     "http://schema.org/address": [
@@ -1026,22 +713,6 @@
   {
     "@id": "_:g461360",
     "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461340",
-    "@type": [
       "http://schema.org/GeoCoordinates"
     ],
     "http://schema.org/latitude": [
@@ -1057,33 +728,17 @@
   },
   {
     "@id": "_:g461380",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461400",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ]
-  },
-  {
-    "@id": "_:g461800",
     "@type": [
-      "https://schema.org/Article"
+      "http://schema.org/AggregateRating"
     ],
-    "https://schema.org/inLanguage": [
+    "http://schema.org/ratingValue": [
       {
-        "@value": "en-GB"
+        "@value": "5"
       }
     ],
-    "https://schema.org/articleBody": [
+    "http://schema.org/reviewCount": [
       {
-        "@value": "\n        Becoming the Beatles\n            \n    \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nThu, Feb 13, 2025 @ 7:30 pm @ E.A. Rawlinson CentreCommunity: E.A. Rawlinson CentreArtist Website: https://www.haley-marie.com/becomingBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beatles' rise to fame, their musical evolution, and the personal struggles of each member. It transcends mere tribute, offering profound insights into the band's origins, their resilience against rejections, and the cultural influences that shaped their iconic sound. From wartime hardships to triumphs on the global stage, experience the untold tales of the Fab Four's extraordinary legacy in this transformative theatrical experience.AppearancesDatePresented ByTicketsThu, Feb 13, 2025 @ 7:30 pmE.A. Rawlinson CentreBuy TicketsFri, Feb 14, 2025 @ 7:30 pmDekker CentreBuy TicketsTue, Feb 18, 2025 @ 7:30 pmWeyburn Concert SeriesTicket InfoThu, Feb 20, 2025 @ 7:30 pmDarke Hall Society Inc.Buy Tickets    "
+        "@value": "1000"
       }
     ]
   },
@@ -1137,90 +792,7 @@
     ]
   },
   {
-    "@id": "_:g462820",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Becoming the Beatles"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-15T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-15T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8812/becoming-the-beatles-dekker-centre"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8812"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/BecomingtheBeatles.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g462840"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beat [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g462860"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g462880"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g462900"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g462940"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462840",
+    "@id": "_:g462000",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -1239,7 +811,7 @@
     ]
   },
   {
-    "@id": "_:g462860",
+    "@id": "_:g462020",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1250,7 +822,7 @@
     ]
   },
   {
-    "@id": "_:g462880",
+    "@id": "_:g462040",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1266,7 +838,7 @@
     ]
   },
   {
-    "@id": "_:g462900",
+    "@id": "_:g462060",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1277,7 +849,7 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g462920"
+        "@id": "_:g462080"
       }
     ],
     "http://schema.org/address": [
@@ -1298,23 +870,7 @@
     ]
   },
   {
-    "@id": "_:g462940",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462920",
+    "@id": "_:g462080",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1330,34 +886,18 @@
     ]
   },
   {
-    "@id": "_:g463840",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ]
-  },
-  {
-    "@id": "_:g463860",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ]
-  },
-  {
-    "@id": "_:g464540",
+    "@id": "_:g462100",
     "@type": [
-      "https://schema.org/Article"
+      "http://schema.org/AggregateRating"
     ],
-    "https://schema.org/inLanguage": [
+    "http://schema.org/ratingValue": [
       {
-        "@value": "en-GB"
+        "@value": "5"
       }
     ],
-    "https://schema.org/articleBody": [
+    "http://schema.org/reviewCount": [
       {
-        "@value": "\n        Becoming the Beatles\n            \n    \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nFri, Feb 14, 2025 @ 7:30 pm @ Dekker CentreCommunity: Dekker CentreArtist Website: https://www.haley-marie.com/becomingBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beatles' rise to fame, their musical evolution, and the personal struggles of each member. It transcends mere tribute, offering profound insights into the band's origins, their resilience against rejections, and the cultural influences that shaped their iconic sound. From wartime hardships to triumphs on the global stage, experience the untold tales of the Fab Four's extraordinary legacy in this transformative theatrical experience.AppearancesDatePresented ByTicketsThu, Feb 13, 2025 @ 7:30 pmE.A. Rawlinson CentreBuy TicketsFri, Feb 14, 2025 @ 7:30 pmDekker CentreBuy TicketsTue, Feb 18, 2025 @ 7:30 pmWeyburn Concert SeriesTicket InfoThu, Feb 20, 2025 @ 7:30 pmDarke Hall Society Inc.Buy Tickets    "
+        "@value": "1000"
       }
     ]
   },
@@ -1411,90 +951,7 @@
     ]
   },
   {
-    "@id": "_:g465460",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Becoming the Beatles"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-19T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-19T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8790/becoming-the-beatles-weyburn-concert-series"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8790"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/BecomingtheBeatles.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g465480"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beat [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g465500"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g465520"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g465540"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g465580"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465480",
+    "@id": "_:g464660",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -1513,7 +970,7 @@
     ]
   },
   {
-    "@id": "_:g465500",
+    "@id": "_:g464680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1524,7 +981,7 @@
     ]
   },
   {
-    "@id": "_:g465520",
+    "@id": "_:g464700",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1540,7 +997,7 @@
     ]
   },
   {
-    "@id": "_:g465540",
+    "@id": "_:g464720",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1551,7 +1008,7 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g465560"
+        "@id": "_:g464740"
       }
     ],
     "http://schema.org/address": [
@@ -1569,23 +1026,7 @@
     ]
   },
   {
-    "@id": "_:g465580",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465560",
+    "@id": "_:g464740",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1601,34 +1042,18 @@
     ]
   },
   {
-    "@id": "_:g465940",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ]
-  },
-  {
-    "@id": "_:g465960",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ]
-  },
-  {
-    "@id": "_:g466340",
+    "@id": "_:g464760",
     "@type": [
-      "https://schema.org/Article"
+      "http://schema.org/AggregateRating"
     ],
-    "https://schema.org/inLanguage": [
+    "http://schema.org/ratingValue": [
       {
-        "@value": "en-GB"
+        "@value": "5"
       }
     ],
-    "https://schema.org/articleBody": [
+    "http://schema.org/reviewCount": [
       {
-        "@value": "\n        Becoming the Beatles\n            \n    \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nTue, Feb 18, 2025 @ 7:30 pm @ The Cugnet CentreCommunity: Weyburn Concert SeriesArtist Website: https://www.haley-marie.com/becomingTicket Info \n  \n\t\t\t\t  \n\t\t\t\t Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beatles' rise to fame, their musical evolution, and the personal struggles of each member. It transcends mere tribute, offering profound insights into the band's origins, their resilience against rejections, and the cultural influences that shaped their iconic sound. From wartime hardships to triumphs on the global stage, experience the untold tales of the Fab Four's extraordinary legacy in this transformative theatrical experience.AppearancesDatePresented ByTicketsThu, Feb 13, 2025 @ 7:30 pmE.A. Rawlinson CentreBuy TicketsFri, Feb 14, 2025 @ 7:30 pmDekker CentreBuy TicketsTue, Feb 18, 2025 @ 7:30 pmWeyburn Concert SeriesTicket InfoThu, Feb 20, 2025 @ 7:30 pmDarke Hall Society Inc.Buy Tickets    "
+        "@value": "1000"
       }
     ]
   },
@@ -1682,90 +1107,7 @@
     ]
   },
   {
-    "@id": "_:g466420",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Becoming the Beatles"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-21T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-02-21T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8829/becoming-the-beatles-darke-hall-society-inc-"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8829"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/BecomingtheBeatles.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g466440"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beat [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g466460"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g466480"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g466500"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g466540"
-      }
-    ]
-  },
-  {
-    "@id": "_:g466440",
+    "@id": "_:g465520",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -1784,7 +1126,7 @@
     ]
   },
   {
-    "@id": "_:g466460",
+    "@id": "_:g465540",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1795,7 +1137,7 @@
     ]
   },
   {
-    "@id": "_:g466480",
+    "@id": "_:g465560",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1811,7 +1153,7 @@
     ]
   },
   {
-    "@id": "_:g466500",
+    "@id": "_:g465580",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1822,7 +1164,7 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g466520"
+        "@id": "_:g465600"
       }
     ],
     "http://schema.org/address": [
@@ -1840,23 +1182,7 @@
     ]
   },
   {
-    "@id": "_:g466540",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g466520",
+    "@id": "_:g465600",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1872,34 +1198,18 @@
     ]
   },
   {
-    "@id": "_:g466560",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ]
-  },
-  {
-    "@id": "_:g466580",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ]
-  },
-  {
-    "@id": "_:g466700",
+    "@id": "_:g465620",
     "@type": [
-      "https://schema.org/Article"
+      "http://schema.org/AggregateRating"
     ],
-    "https://schema.org/inLanguage": [
+    "http://schema.org/ratingValue": [
       {
-        "@value": "en-GB"
+        "@value": "5"
       }
     ],
-    "https://schema.org/articleBody": [
+    "http://schema.org/reviewCount": [
       {
-        "@value": "\n        Becoming the Beatles\n            \n    \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nThu, Feb 20, 2025 @ 7:30 pm @ Darke HallCommunity: Darke Hall Society Inc.Artist Website: https://www.haley-marie.com/becomingBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beatles' rise to fame, their musical evolution, and the personal struggles of each member. It transcends mere tribute, offering profound insights into the band's origins, their resilience against rejections, and the cultural influences that shaped their iconic sound. From wartime hardships to triumphs on the global stage, experience the untold tales of the Fab Four's extraordinary legacy in this transformative theatrical experience.AppearancesDatePresented ByTicketsThu, Feb 13, 2025 @ 7:30 pmE.A. Rawlinson CentreBuy TicketsFri, Feb 14, 2025 @ 7:30 pmDekker CentreBuy TicketsTue, Feb 18, 2025 @ 7:30 pmWeyburn Concert SeriesTicket InfoThu, Feb 20, 2025 @ 7:30 pmDarke Hall Society Inc.Buy Tickets    "
+        "@value": "1000"
       }
     ]
   },
@@ -1953,90 +1263,7 @@
     ]
   },
   {
-    "@id": "_:g466900",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Becoming the Beatles: Unplugged"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-15T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-03-15T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8825/becoming-the-beatles-unplugged-quill-plains-regional-arts-council-qprac-main"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8825"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/BecomingtheBeatlesUnplugged.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g466920"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beat [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g466940"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g466960"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g466980"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g467020"
-      }
-    ]
-  },
-  {
-    "@id": "_:g466920",
+    "@id": "_:g465920",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -2055,7 +1282,7 @@
     ]
   },
   {
-    "@id": "_:g466940",
+    "@id": "_:g465940",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2066,7 +1293,7 @@
     ]
   },
   {
-    "@id": "_:g466960",
+    "@id": "_:g465960",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2082,7 +1309,7 @@
     ]
   },
   {
-    "@id": "_:g466980",
+    "@id": "_:g465980",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2093,7 +1320,7 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g467000"
+        "@id": "_:g466000"
       }
     ],
     "http://schema.org/address": [
@@ -2108,23 +1335,7 @@
     ]
   },
   {
-    "@id": "_:g467020",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467000",
+    "@id": "_:g466000",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2140,34 +1351,18 @@
     ]
   },
   {
-    "@id": "_:g467920",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ]
-  },
-  {
-    "@id": "_:g467940",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468540",
+    "@id": "_:g466020",
     "@type": [
-      "https://schema.org/Article"
+      "http://schema.org/AggregateRating"
     ],
-    "https://schema.org/inLanguage": [
+    "http://schema.org/ratingValue": [
       {
-        "@value": "en-GB"
+        "@value": "5"
       }
     ],
-    "https://schema.org/articleBody": [
+    "http://schema.org/reviewCount": [
       {
-        "@value": "\n        Becoming the Beatles: Unplugged\n            \n    \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nFri, Mar 14, 2025 @ 7:30 pm @ Wadena Community Legion HallCommunity: Quill Plains Regional Arts Council (QPRAC) - MainArtist Website: https://www.haley-marie.com/becomingTicket Info \n  \n\t\t\t\t  \n\t\t\t\t Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beatles' rise to fame, their musical evolution, and the personal struggles of each member. It transcends mere tribute, offering profound insights into the band's origins, their resilience against rejections, and the cultural influences that shaped their iconic sound. From wartime hardships to triumphs on the global stage, experience the untold tales of the Fab Four's extraordinary legacy in this transformative theatrical experience.AppearancesDatePresented ByTicketsFri, Mar 14, 2025 @ 7:30 pmQuill Plains Regional Arts Council (QPRAC) - MainTicket Info    "
+        "@value": "1000"
       }
     ]
   },
@@ -2221,90 +1416,7 @@
     ]
   },
   {
-    "@id": "_:g469420",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Belle Plaine"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-10-06T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2024-10-06T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8679/belle-plaine-indian-head-theatre-and-community-arts-inc-"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8679"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/BellePlaine.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g469440"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "In Prairie winter, gazing through windows, Regina's Belle Plaine captures contemplative vibes akin to 70s AM radio, infusing tenderness into her soulful vocals. With empathy, she weaves stories, balancing characters' compassion and charisma, evoking  [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g469460"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g469480"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g469500"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g469540"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469440",
+    "@id": "_:g468440",
     "@type": [
       "http://schema.org/Person"
     ],
@@ -2332,7 +1444,7 @@
     ]
   },
   {
-    "@id": "_:g469460",
+    "@id": "_:g468460",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2343,7 +1455,7 @@
     ]
   },
   {
-    "@id": "_:g469480",
+    "@id": "_:g468480",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2359,7 +1471,7 @@
     ]
   },
   {
-    "@id": "_:g469500",
+    "@id": "_:g468500",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2370,7 +1482,7 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g469520"
+        "@id": "_:g468520"
       }
     ],
     "http://schema.org/address": [
@@ -2388,23 +1500,7 @@
     ]
   },
   {
-    "@id": "_:g469540",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469520",
+    "@id": "_:g468520",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2420,34 +1516,18 @@
     ]
   },
   {
-    "@id": "_:g470360",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ]
-  },
-  {
-    "@id": "_:g470380",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ]
-  },
-  {
-    "@id": "_:g470920",
+    "@id": "_:g468540",
     "@type": [
-      "https://schema.org/Article"
+      "http://schema.org/AggregateRating"
     ],
-    "https://schema.org/inLanguage": [
+    "http://schema.org/ratingValue": [
       {
-        "@value": "en-GB"
+        "@value": "5"
       }
     ],
-    "https://schema.org/articleBody": [
+    "http://schema.org/reviewCount": [
       {
-        "@value": "\n        Belle Plaine\n            \n    \n            \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nSat, Oct 5, 2024 @ 7:30 pm @ Grand TheatreCommunity: Indian Head Theatre and Community Arts Inc.Artist Website: www.belleplainemusic.comBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t In Prairie winter, gazing through windows, Regina's Belle Plaine captures contemplative vibes akin to 70s AM radio, infusing tenderness into her soulful vocals. With empathy, she weaves stories, balancing characters' compassion and charisma, evoking laughter and emotions, backed by her talented band. Belle Plaine masters the art of country music, validating experiences while gently guiding toward greater possibilities. Gracefully embodying this quality, she naturally radiates compassion and tenderness, thawing even the coldest Prairie moments.AppearancesDatePresented ByTicketsSat, Oct 5, 2024 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy Tickets    "
+        "@value": "1000"
       }
     ]
   },
@@ -2501,7 +1581,1040 @@
     ]
   },
   {
-    "@id": "_:g471860",
+    "@id": "_:g470840",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Brayden King"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/braydenkingmusic"
+      },
+      {
+        "@id": "https://www.instagram.com/braydenkingmusic/"
+      },
+      {
+        "@id": "https://open.spotify.com/user/Braydenking"
+      },
+      {
+        "@id": "https://vm.tiktok.com/ZMLJNUn4U/"
+      },
+      {
+        "@id": "https://www.wikidata.org/wiki/Q125607139"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470860",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://tprowest.ticketpro.ca/en/pages/YAC_BraydenKing"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470880",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Yorkton Arts Council"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.yorktonarts.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470900",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Painted Hand Casino"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g470920"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "510 Broadway St W, Yorkton, SK, S3N0P3"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.paintedhandcasino.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470920",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "51.2091313"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-102.4930727"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470940",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/e8e53d34-8f66-4a8d-80ca-194bcf71bdb3",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Amy Nelson"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-01T01:30:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-01T03:30:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/performing-arts/event/121-PA8762/amy-nelson-macklin-arts-council"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "PA8762"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/PA/images/AmyNelson.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g459140"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Amy Nelson is a versatile performer, from trios to full bands. She plays original country tunes and covers, customizing her sets for each crowd. Amy, a multi-instrumentalist, often spotlights her vocals. Known for her lively personality and engaging  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g459160"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g459180"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g459200"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g459240"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/a183233f-5986-4a73-b1f1-a033b876c646",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/5019bce8-e0ce-40dc-81e2-76858b727c54",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/d246c1fa-c1d3-4db9-9f29-b3f56f24df9e",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        Amy Nelson\n            \n    \n            \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nFri, Feb 28, 2025 @ 7:30 pm @ Macklin Credit Union Legacy CenterCommunity: Macklin Arts CouncilArtist Website: www.amynelson.caTicket Info \n  \n\t\t\t\t  \n\t\t\t\t Amy Nelson is a versatile performer, from trios to full bands. She plays original country tunes and covers, customizing her sets for each crowd. Amy, a multi-instrumentalist, often spotlights her vocals. Known for her lively personality and engaging conversations, she makes audiences part of the show. Hailing from Saskatchewan, she's played across Canada, from house concerts to big stages like the Calgary Stampede. Amy's music has reached global audiences, including Trafalgar Square in the UK and the Gympie Music Muster in Australia. She's showcased her talent at events like Canadian Music Week, BreakOut West, JunoFest, AmericanaFest, and Australian Music Week.AppearancesDatePresented ByTicketsFri, Feb 28, 2025 @ 7:30 pmMacklin Arts CouncilTicket Info    "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/3b112f51-f098-4498-8327-ece1c15e3dd8",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Ballet Jorgen - Sleeping Beauty"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-05T01:30:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-05T03:30:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/performing-arts/event/121-PA8860/ballet-jorgen-sleeping-beauty-la-ronge-arts-council"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "PA8860"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/PA/images/SleepingBeauty.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g460780"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "In the 2024/2025 season, Ballet Jorgen will be performing in La Ronge for the first time ever! Sleeping Beauty is one of the world's most famous classical ballets, featured in the repertoire of virtually every major company. After more than 30 succes [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g460800"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g460820"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g460840"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g460880"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/e2ff741a-4ca7-451a-bd29-4cc3ad2597cd",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/3f46e475-7f7e-4272-8e13-e5c71530b469",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/8abc0f07-c416-4493-a63b-729b329aed72",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        Ballet Jorgen - Sleeping Beauty\n            \n    \n            \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nTue, Mar 4, 2025 @ 7:30 pm @ Churchill Community High SchoolCommunity: La Ronge Arts CouncilArtist Website: https://www.jorgendance.ca/Ticket Info \n  \n\t\t\t\t  \n\t\t\t\t In the 2024/2025 season, Ballet Jorgen will be performing in La Ronge for the first time ever! Sleeping Beauty is one of the world's most famous classical ballets, featured in the repertoire of virtually every major company. After more than 30 successful years, Ballet Jorgen presents its own unique classical rendition. This captivating ballet tells the enchanting story of Aurora and her prince, showcasing magical qualities and dazzling choreography. OSAC is thrilled to bring the magic of ballet to new Saskatchewan communities.AppearancesDatePresented ByTicketsTue, Mar 4, 2025 @ 7:30 pmLa Ronge Arts CouncilTicket Info    "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/be94f9ce-f35d-460b-8404-ed312b6ee3bd",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Becoming the Beatles"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-14T01:30:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-14T03:30:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/performing-arts/event/121-PA8859/becoming-the-beatles-e-a-rawlinson-centre"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "PA8859"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/PA/images/BecomingtheBeatles.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g461280"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beat [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461300"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g461320"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461340"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g461380"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/ca49752c-3eef-4536-beeb-7151b476788e",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/e57e7c9c-8be4-450d-8a79-9fe3cac36dda",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/e1621eb4-57f8-4088-9a0c-547abfdbfddc",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        Becoming the Beatles\n            \n    \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nThu, Feb 13, 2025 @ 7:30 pm @ E.A. Rawlinson CentreCommunity: E.A. Rawlinson CentreArtist Website: https://www.haley-marie.com/becomingBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beatles' rise to fame, their musical evolution, and the personal struggles of each member. It transcends mere tribute, offering profound insights into the band's origins, their resilience against rejections, and the cultural influences that shaped their iconic sound. From wartime hardships to triumphs on the global stage, experience the untold tales of the Fab Four's extraordinary legacy in this transformative theatrical experience.AppearancesDatePresented ByTicketsThu, Feb 13, 2025 @ 7:30 pmE.A. Rawlinson CentreBuy TicketsFri, Feb 14, 2025 @ 7:30 pmDekker CentreBuy TicketsTue, Feb 18, 2025 @ 7:30 pmWeyburn Concert SeriesTicket InfoThu, Feb 20, 2025 @ 7:30 pmDarke Hall Society Inc.Buy Tickets    "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/46a65a6b-35dd-489b-b18a-d0a3f4956995",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Becoming the Beatles"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-15T01:30:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-15T03:30:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/performing-arts/event/121-PA8812/becoming-the-beatles-dekker-centre"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "PA8812"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/PA/images/BecomingtheBeatles.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g462000"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beat [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g462020"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g462040"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g462060"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g462100"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/b6ba1daa-c8d5-4474-8451-812df0989f86",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/960941d4-af54-45ea-86af-a5458bd89a1e",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/befa7c25-ce76-40b2-b392-197a1ee39b69",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        Becoming the Beatles\n            \n    \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nFri, Feb 14, 2025 @ 7:30 pm @ Dekker CentreCommunity: Dekker CentreArtist Website: https://www.haley-marie.com/becomingBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beatles' rise to fame, their musical evolution, and the personal struggles of each member. It transcends mere tribute, offering profound insights into the band's origins, their resilience against rejections, and the cultural influences that shaped their iconic sound. From wartime hardships to triumphs on the global stage, experience the untold tales of the Fab Four's extraordinary legacy in this transformative theatrical experience.AppearancesDatePresented ByTicketsThu, Feb 13, 2025 @ 7:30 pmE.A. Rawlinson CentreBuy TicketsFri, Feb 14, 2025 @ 7:30 pmDekker CentreBuy TicketsTue, Feb 18, 2025 @ 7:30 pmWeyburn Concert SeriesTicket InfoThu, Feb 20, 2025 @ 7:30 pmDarke Hall Society Inc.Buy Tickets    "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/f4d7144d-e764-4347-8bbb-c0a82056d0b9",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Becoming the Beatles"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-19T01:30:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-19T03:30:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/performing-arts/event/121-PA8790/becoming-the-beatles-weyburn-concert-series"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "PA8790"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/PA/images/BecomingtheBeatles.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g464660"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beat [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464680"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g464700"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464720"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g464760"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/d27c77a2-abbf-40e0-a73e-dddcd5b17d9c",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/8ab9f5cb-ee69-42f0-ad20-217c7f60a992",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/b85e91f9-852d-4112-8ef6-737e6db1a540",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        Becoming the Beatles\n            \n    \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nTue, Feb 18, 2025 @ 7:30 pm @ The Cugnet CentreCommunity: Weyburn Concert SeriesArtist Website: https://www.haley-marie.com/becomingTicket Info \n  \n\t\t\t\t  \n\t\t\t\t Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beatles' rise to fame, their musical evolution, and the personal struggles of each member. It transcends mere tribute, offering profound insights into the band's origins, their resilience against rejections, and the cultural influences that shaped their iconic sound. From wartime hardships to triumphs on the global stage, experience the untold tales of the Fab Four's extraordinary legacy in this transformative theatrical experience.AppearancesDatePresented ByTicketsThu, Feb 13, 2025 @ 7:30 pmE.A. Rawlinson CentreBuy TicketsFri, Feb 14, 2025 @ 7:30 pmDekker CentreBuy TicketsTue, Feb 18, 2025 @ 7:30 pmWeyburn Concert SeriesTicket InfoThu, Feb 20, 2025 @ 7:30 pmDarke Hall Society Inc.Buy Tickets    "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/34db7af5-1137-4e77-a5b8-6d3ae0020719",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Becoming the Beatles"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-21T01:30:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-21T03:30:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/performing-arts/event/121-PA8829/becoming-the-beatles-darke-hall-society-inc-"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "PA8829"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/PA/images/BecomingtheBeatles.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g465520"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beat [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465540"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g465560"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g465580"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g465620"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/72e21e8f-ad38-424e-befe-e6d3ee2a4eac",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/7b3caca4-5921-416b-9399-7bbffcd1e006",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/34d20699-fa69-47ce-a69b-5c9f513912c7",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        Becoming the Beatles\n            \n    \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nThu, Feb 20, 2025 @ 7:30 pm @ Darke HallCommunity: Darke Hall Society Inc.Artist Website: https://www.haley-marie.com/becomingBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beatles' rise to fame, their musical evolution, and the personal struggles of each member. It transcends mere tribute, offering profound insights into the band's origins, their resilience against rejections, and the cultural influences that shaped their iconic sound. From wartime hardships to triumphs on the global stage, experience the untold tales of the Fab Four's extraordinary legacy in this transformative theatrical experience.AppearancesDatePresented ByTicketsThu, Feb 13, 2025 @ 7:30 pmE.A. Rawlinson CentreBuy TicketsFri, Feb 14, 2025 @ 7:30 pmDekker CentreBuy TicketsTue, Feb 18, 2025 @ 7:30 pmWeyburn Concert SeriesTicket InfoThu, Feb 20, 2025 @ 7:30 pmDarke Hall Society Inc.Buy Tickets    "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/f95e577a-f3f1-480f-82f3-3555cc788aa2",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Becoming the Beatles: Unplugged"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-15T01:30:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-03-15T03:30:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/performing-arts/event/121-PA8825/becoming-the-beatles-unplugged-quill-plains-regional-arts-council-qprac-main"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "PA8825"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/PA/images/BecomingtheBeatlesUnplugged.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g465920"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beat [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465940"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g465960"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g465980"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g466020"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/9087cd34-73fb-459b-b34d-f0060e426ab3",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/e428a630-25d8-43d8-a10b-f7ed2d11e32c",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/ebbcb1ce-c08e-4a7d-a867-4c016bfb9b90",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        Becoming the Beatles: Unplugged\n            \n    \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nFri, Mar 14, 2025 @ 7:30 pm @ Wadena Community Legion HallCommunity: Quill Plains Regional Arts Council (QPRAC) - MainArtist Website: https://www.haley-marie.com/becomingTicket Info \n  \n\t\t\t\t  \n\t\t\t\t Becoming the Beatles is a captivating live musical documentary, blending over 300 projections, 20 live songs, and intimate stories to unveil the journey of the legendary band. Led by musician and storyteller Haley Marie, the show delves into the Beatles' rise to fame, their musical evolution, and the personal struggles of each member. It transcends mere tribute, offering profound insights into the band's origins, their resilience against rejections, and the cultural influences that shaped their iconic sound. From wartime hardships to triumphs on the global stage, experience the untold tales of the Fab Four's extraordinary legacy in this transformative theatrical experience.AppearancesDatePresented ByTicketsFri, Mar 14, 2025 @ 7:30 pmQuill Plains Regional Arts Council (QPRAC) - MainTicket Info    "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/639b81e8-8249-4ff9-8e38-fb739d6cb0cf",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Belle Plaine"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-06T01:30:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-10-06T03:30:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/performing-arts/event/121-PA8679/belle-plaine-indian-head-theatre-and-community-arts-inc-"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "PA8679"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/PA/images/BellePlaine.jpg"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "_:g468440"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "In Prairie winter, gazing through windows, Regina's Belle Plaine captures contemplative vibes akin to 70s AM radio, infusing tenderness into her soulful vocals. With empathy, she weaves stories, balancing characters' compassion and charisma, evoking  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g468460"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g468480"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g468500"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g468540"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/2be019e1-f976-497e-b9b9-f1a5b89bb82b",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/9aabf9f5-fbf2-4a09-99a6-9e1734922d83",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/99e6d8b4-e097-4509-9f28-25f439af6722",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        Belle Plaine\n            \n    \n            \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nSat, Oct 5, 2024 @ 7:30 pm @ Grand TheatreCommunity: Indian Head Theatre and Community Arts Inc.Artist Website: www.belleplainemusic.comBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t In Prairie winter, gazing through windows, Regina's Belle Plaine captures contemplative vibes akin to 70s AM radio, infusing tenderness into her soulful vocals. With empathy, she weaves stories, balancing characters' compassion and charisma, evoking laughter and emotions, backed by her talented band. Belle Plaine masters the art of country music, validating experiences while gently guiding toward greater possibilities. Gracefully embodying this quality, she naturally radiates compassion and tenderness, thawing even the coldest Prairie moments.AppearancesDatePresented ByTicketsSat, Oct 5, 2024 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy Tickets    "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/temporary/370984c9-9ff7-487f-984c-45deb3560945",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -2554,7 +2667,7 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g471880"
+        "@id": "_:g470840"
       }
     ],
     "http://schema.org/description": [
@@ -2564,140 +2677,27 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g471900"
+        "@id": "_:g470860"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g471920"
+        "@id": "_:g470880"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g471940"
+        "@id": "_:g470900"
       }
     ],
     "http://schema.org/aggregateRating": [
       {
-        "@id": "_:g471980"
+        "@id": "_:g470940"
       }
     ]
   },
   {
-    "@id": "_:g471880",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Brayden King"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/braydenkingmusic"
-      },
-      {
-        "@id": "https://www.instagram.com/braydenkingmusic/"
-      },
-      {
-        "@id": "https://open.spotify.com/user/Braydenking"
-      },
-      {
-        "@id": "https://vm.tiktok.com/ZMLJNUn4U/"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q125607139"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471900",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tprowest.ticketpro.ca/en/pages/YAC_BraydenKing"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471920",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Yorkton Arts Council"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.yorktonarts.ca"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471940",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Painted Hand Casino"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g471960"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@value": "510 Broadway St W, Yorkton, SK, S3N0P3"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.paintedhandcasino.ca/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471980",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g471960",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "51.2091313"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-102.4930727"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472320",
+    "@id": "https://www.osac.ca/temporary/dab64c55-4930-401f-bc79-6e0d2f0ebe20",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
@@ -2705,7 +2705,7 @@
     ]
   },
   {
-    "@id": "_:g472340",
+    "@id": "https://www.osac.ca/temporary/941cc684-8c88-499c-b6b1-52c14faaeb25",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#search"
@@ -2713,7 +2713,7 @@
     ]
   },
   {
-    "@id": "_:g472860",
+    "@id": "https://www.osac.ca/temporary/eaa2692c-cb18-4006-a91e-ac7b67f56f35",
     "@type": [
       "https://schema.org/Article"
     ],
