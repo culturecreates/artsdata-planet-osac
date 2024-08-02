@@ -1,0 +1,4483 @@
+[
+  {
+    "@id": "https://www.osac.ca/#/schema/Organization/base",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "The Organization of Saskatchewan Arts Councils"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osac.ca/"
+      }
+    ],
+    "http://schema.org/logo": [
+      {
+        "@id": "https://www.osac.ca/#/schema/ImageObject/logo"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/#/schema/ImageObject/logo"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/OSACsask/"
+      },
+      {
+        "@id": "https://www.instagram.com/osacsask/"
+      },
+      {
+        "@id": "https://twitter.com/OSACsask"
+      },
+      {
+        "@id": "https://www.wikidata.org/wiki/Q98372422"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/#/schema/ImageObject/logo",
+    "@type": [
+      "http://schema.org/ImageObject"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4088/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4146/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4147/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4148/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4149/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4150/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4152/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4153/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4154/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4155/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4156/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4157/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4158/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4159/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4092/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4144/images/logos/OSAC.png"
+      }
+    ],
+    "http://schema.org/contentUrl": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4088/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4146/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4147/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4148/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4149/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4150/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4152/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4153/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4154/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4155/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4156/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4157/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4158/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4159/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4092/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4144/images/logos/OSAC.png"
+      }
+    ],
+    "http://schema.org/width": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ],
+    "http://schema.org/height": [
+      {
+        "@type": "http://www.w3.org/2001/XMLSchema#integer",
+        "@value": "1080"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/#/schema/WebSite/base",
+    "@type": [
+      "http://schema.org/WebSite"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osac.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "OSAC - Organization of Saskatchewan Arts Councils"
+      }
+    ],
+    "http://schema.org/publisher": [
+      {
+        "@id": "https://www.osac.ca/#/schema/Organization/base"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/#/schema/WebPage/base",
+    "@type": [
+      "http://schema.org/WebPage"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4088&amp;name=a-selection-of-specimens-last-mountain-lake-cultural&amp;phone=centre&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4146&amp;name=a-selection-of-specimens-watrous-area-arts&amp;phone=council&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4147&amp;name=a-selection-of-specimens-la-ronge-arts&amp;phone=council&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4148&amp;name=a-selection-of-specimens-moosomin-district-arts&amp;phone=council&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4149&amp;name=a-selection-of-specimens-indian-head-theatre-and-community-arts-inc&amp;phone=&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4150&amp;name=a-selection-of-specimens-melfort-arts&amp;phone=council&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4152&amp;name=a-selection-of-specimens-melville-arts&amp;phone=council&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4153&amp;name=a-selection-of-specimens-station-arts-centre&amp;phone=cooperative&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4154&amp;name=a-selection-of-specimens-estevan-art-gallery&amp;phone=museum&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4155&amp;name=a-selection-of-specimens-nipawin-art&amp;phone=club&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4156&amp;name=a-selection-of-specimens-yorkton-arts&amp;phone=council&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4157&amp;name=a-selection-of-specimens-prince-albert-council-for-the&amp;phone=arts&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4158&amp;name=a-selection-of-specimens-humboldt-area-arts&amp;phone=council&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4159&amp;name=a-selection-of-specimens-shaunavon-arts&amp;phone=council&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4092&amp;name=a-selection-of-specimens-lloydminster-museum&amp;phone=archive&amp;Itemid=1819"
+      },
+      {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=112&amp;event=VA4144&amp;name=a-selection-of-specimens-biggar-district-arts&amp;phone=council&amp;Itemid=1819"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "a-selection-of-specimens-last-mountain-lake-cultural-centre"
+      },
+      {
+        "@value": "a-selection-of-specimens-gallery-on-rd"
+      },
+      {
+        "@value": "a-selection-of-specimens-mistasinihk-place"
+      },
+      {
+        "@value": "a-selection-of-specimens-moosomin-district-arts-council"
+      },
+      {
+        "@value": "a-selection-of-specimens-indian-head-theatre-and-community-arts-inc-"
+      },
+      {
+        "@value": "a-selection-of-specimens-sherven-smith-art-gallery"
+      },
+      {
+        "@value": "a-selection-of-specimens-gallery-works-and-the-third-dimension"
+      },
+      {
+        "@value": "a-selection-of-specimens-station-arts-centre-cooperative"
+      },
+      {
+        "@value": "a-selection-of-specimens-estevan-art-gallery-museum"
+      },
+      {
+        "@value": "a-selection-of-specimens-central-park-library-arts-centre"
+      },
+      {
+        "@value": "a-selection-of-specimens-community-partners-gallery"
+      },
+      {
+        "@value": "a-selection-of-specimens-john-v-hicks-gallery-at-the-margo-fournier-arts-centre"
+      },
+      {
+        "@value": "a-selection-of-specimens-humboldt-and-district-gallery"
+      },
+      {
+        "@value": "a-selection-of-specimens-grand-coteau-heritage-and-cultural-centre"
+      },
+      {
+        "@value": "a-selection-of-specimens-lloydminster-museum-archive"
+      },
+      {
+        "@value": "a-selection-of-specimens-biggar-museum-and-gallery"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "OSAC Arts Council the Last Mountain Lake Cultural Centre Present A Selection of Specimens at Last Mountain Lake Cultural Centre from 2024-08-01  to 2024-09-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Watrous Area Arts Council Present A Selection of Specimens at Gallery on 3rd from 2024-11-01  to 2024-11-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the La Ronge Arts Council Present A Selection of Specimens at Mistasinihk Place from 2024-12-01  to 2024-12-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Moosomin &amp; District Arts Council Present A Selection of Specimens at Moosomin &amp; District Arts Council from 2025-01-01  to 2025-01-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Indian Head Theatre and Community Arts Inc. Present A Selection of Specimens at Indian Head Theatre and Community Arts Inc. from 2025-02-01  to 2025-02-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Melfort Arts Council Present A Selection of Specimens at Sherven-Smith Art Gallery from 2025-06-01  to 2025-07-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Melville Arts Council Present A Selection of Specimens at Gallery Works and The Third Dimension from 2025-12-01  to 2025-12-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Station Arts Centre Cooperative Present A Selection of Specimens at Station Arts Centre Cooperative from 2026-01-01  to 2026-02-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Estevan Art Gallery &amp; Museum Present A Selection of Specimens at Estevan Art Gallery &amp; Museum from 2026-04-01  to 2026-06-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Nipawin Art Club Present A Selection of Specimens at Central Park Library/Arts Centre from 2026-09-01  to 2026-09-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Yorkton Arts Council Present A Selection of Specimens at Community pARTners Gallery from 2026-10-01  to 2026-11-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Prince Albert Council for the Arts Present A Selection of Specimens at John V. Hicks Gallery at the Margo Fournier Arts Centre from 2026-12-01  to 2027-01-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Humboldt Area Arts Council Present A Selection of Specimens at Humboldt and District Gallery from 2027-05-01  to 2027-06-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Shaunavon Arts Council Present A Selection of Specimens at Grand Coteau Heritage and Cultural Centre from 2027-09-01  to 2027-10-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Lloydminster Museum + Archive Present A Selection of Specimens at Lloydminster Museum + Archive from 2024-05-01  to 2024-05-23 "
+      },
+      {
+        "@value": "OSAC Arts Council the Biggar &amp; District Arts Council Present A Selection of Specimens at Biggar Museum and Gallery from 2024-06-01  to 2024-06-23 "
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.osac.ca/#/schema/WebSite/base"
+      }
+    ],
+    "http://schema.org/about": [
+      {
+        "@id": "https://www.osac.ca/#/schema/Organization/base"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/#/schema/com_content/article/112",
+    "@type": [
+      "http://schema.org/Article"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Exhibition"
+      }
+    ],
+    "http://schema.org/headline": [
+      {
+        "@value": "Exhibition"
+      }
+    ],
+    "http://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "http://schema.org/isPartOf": [
+      {
+        "@id": "https://www.osac.ca/#/schema/WebPage/base"
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4088/a-selection-of-specimens-last-mountain-lake-cultural-centre&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4088&name=a-selection-of-specimens-last-mountain-lake-cultural&phone=centre&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-last-mountain-lake-cultural-centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Last Mountain Lake Cultural Centre Present A Selection of Specimens at Last Mountain Lake Cultural Centre from 2024-08-01  to 2024-09-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458920",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-08-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-09-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4088/a-selection-of-specimens-last-mountain-lake-cultural-centre"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4088"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g458940"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g458960"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g458980"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g459000"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g459040"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458940",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458960",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4088/a-selection-of-specimens-last-mountain-lake-cultural-centre&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g458980",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Last Mountain Lake Cultural Centre"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4088/www.lmlcc.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459000",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Last Mountain Lake Cultural Centre"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g459020"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "133 Donovel Crescent, Regina Beach, SK, S0G 4C0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459040",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459020",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "50.786963"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-104.96928"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459960",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g459980",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460720",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nThu, Aug 1, 2024 to Mon, Sep 23, 2024 @ Last Mountain Lake Cultural CentreCommunity: Last Mountain Lake Cultural Centre \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4146/a-selection-of-specimens-watrous-area-arts-council&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4146&name=a-selection-of-specimens-watrous-area-arts&phone=council&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-gallery-on-rd"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Watrous Area Arts Council Present A Selection of Specimens at Gallery on 3rd from 2024-11-01  to 2024-11-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460800",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-11-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4146/a-selection-of-specimens-watrous-area-arts-council"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4146"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g460820"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g460840"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g460860"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g460880"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g460920"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460820",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460840",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4146/a-selection-of-specimens-watrous-area-arts-council&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460860",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Watrous Area Arts Council"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4146/www.osac.ca/watrousandareaartscouncil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gallery on 3rd"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g460900"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "810 Pukwana Drive, Manitou  Beach, SK, S0K 4T1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460920",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460900",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g460940",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g460960",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461040",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nFri, Nov 1, 2024 to Sat, Nov 23, 2024 @ Gallery on 3rdCommunity: Watrous Area Arts Council \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4147/a-selection-of-specimens-la-ronge-arts-council&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4147&name=a-selection-of-specimens-la-ronge-arts&phone=council&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-mistasinihk-place"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the La Ronge Arts Council Present A Selection of Specimens at Mistasinihk Place from 2024-12-01  to 2024-12-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461200",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-12-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4147/a-selection-of-specimens-la-ronge-arts-council"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4147"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g461220"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g461240"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g461260"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g461280"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g461320"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461220",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461240",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4147/a-selection-of-specimens-la-ronge-arts-council&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461260",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "La Ronge Arts Council"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4147/www.larongearts.com/home/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Mistasinihk Place"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g461300"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "La Ronge Avenue, La Ronge, SK, S0J 1L0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461320",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g461300",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "55.1053112"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-105.2823475"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462240",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462260",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g462960",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nSun, Dec 1, 2024 to Mon, Dec 23, 2024 @ Mistasinihk PlaceCommunity: La Ronge Arts Council \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4148/a-selection-of-specimens-moosomin-district-arts-council&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4148&name=a-selection-of-specimens-moosomin-district-arts&phone=council&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-moosomin-district-arts-council"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Moosomin & District Arts Council Present A Selection of Specimens at Moosomin & District Arts Council from 2025-01-01  to 2025-01-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464040",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-01-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4148/a-selection-of-specimens-moosomin-district-arts-council"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4148"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g464060"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g464080"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g464100"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g464120"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g464160"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464060",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464080",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4148/a-selection-of-specimens-moosomin-district-arts-council&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464100",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Moosomin & District Arts Council"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4148/www.osac.ca/madac"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Moosomin & District Arts Council"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g464140"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Box 1318, Moosomin, SK, S0G 3N0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464160",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464140",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g464180",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464200",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g464280",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nWed, Jan 1, 2025 to Thu, Jan 23, 2025 @ Moosomin & District Arts CouncilCommunity: Moosomin & District Arts Council \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4149/a-selection-of-specimens-indian-head-theatre-and-community-arts-inc-&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4149&name=a-selection-of-specimens-indian-head-theatre-and-community-arts-inc&phone=&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-indian-head-theatre-and-community-arts-inc-"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Indian Head Theatre and Community Arts Inc. Present A Selection of Specimens at Indian Head Theatre and Community Arts Inc. from 2025-02-01  to 2025-02-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465160",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-02-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4149/a-selection-of-specimens-indian-head-theatre-and-community-arts-inc-"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4149"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g465180"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g465200"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g465220"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g465240"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g465280"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465180",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465200",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4149/a-selection-of-specimens-indian-head-theatre-and-community-arts-inc-&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465220",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indian Head Theatre and Community Arts Inc."
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4149/www.grandtheatre1904.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465240",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Indian Head Theatre and Community Arts Inc."
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g465260"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Box 121, Indian Head, SK, S0G 2K0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465280",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g465260",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g466200",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466220",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g466920",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nSat, Feb 1, 2025 to Sun, Feb 23, 2025 @ Indian Head Theatre and Community Arts Inc.Community: Indian Head Theatre and Community Arts Inc. \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4150/a-selection-of-specimens-melfort-arts-council&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4150&name=a-selection-of-specimens-melfort-arts&phone=council&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-sherven-smith-art-gallery"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Melfort Arts Council Present A Selection of Specimens at Sherven-Smith Art Gallery from 2025-06-01  to 2025-07-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467000",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-06-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-07-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4150/a-selection-of-specimens-melfort-arts-council"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4150"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g467020"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g467040"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g467060"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g467080"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g467120"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467020",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467040",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4150/a-selection-of-specimens-melfort-arts-council&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467060",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Melfort Arts Council"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4150/www.melfortartscouncil.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467080",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Sherven-Smith Art Gallery"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g467100"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Kerry Vickar Centre, Melfort, SK, S0E 1A0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467120",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467100",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "52.8633201"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-104.6059584"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467220",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467240",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g467940",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nSun, Jun 1, 2025 to Wed, Jul 23, 2025 @ Sherven-Smith Art GalleryCommunity: Melfort Arts Council \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4152/a-selection-of-specimens-melville-arts-council&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4152&name=a-selection-of-specimens-melville-arts&phone=council&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-gallery-works-and-the-third-dimension"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Melville Arts Council Present A Selection of Specimens at Gallery Works and The Third Dimension from 2025-12-01  to 2025-12-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468800",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2025-12-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4152/a-selection-of-specimens-melville-arts-council"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4152"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g468820"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g468840"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g468860"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g468880"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g468920"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468820",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468840",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4152/a-selection-of-specimens-melville-arts-council&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468860",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Melville Arts Council"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4152/www.melvillecommunityworks.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468880",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Gallery Works and The Third Dimension"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g468900"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "800 Prince Edward, Melville, SK, S0A 2P0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468920",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g468900",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "50.9328136"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-102.7992191"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469840",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g469860",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g470520",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nMon, Dec 1, 2025 to Tue, Dec 23, 2025 @ Gallery Works and The Third DimensionCommunity: Melville Arts Council \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4153/a-selection-of-specimens-station-arts-centre-cooperative&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4153&name=a-selection-of-specimens-station-arts-centre&phone=cooperative&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-station-arts-centre-cooperative"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Station Arts Centre Cooperative Present A Selection of Specimens at Station Arts Centre Cooperative from 2026-01-01  to 2026-02-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471360",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-01-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-02-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4153/a-selection-of-specimens-station-arts-centre-cooperative"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4153"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g471380"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g471400"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g471420"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g471440"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g471480"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471380",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471400",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4153/a-selection-of-specimens-station-arts-centre-cooperative&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471420",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Station Arts Centre Cooperative"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://stationarts.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471440",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Station Arts Centre Cooperative"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g471460"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "PO Box 1078, Rosthern, SK, S0K 3R0"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://stationarts.com/"
+      },
+      {
+        "@id": "https://facebook.com/stationarts"
+      },
+      {
+        "@id": "https://twitter.com/sacrosthern"
+      },
+      {
+        "@id": "https://instagram.com/stationartscentre"
+      },
+      {
+        "@id": "https://www.wikidata.org/wiki/Q114432386"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471480",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471460",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "52.6619935"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-106.3320284"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471500",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471520",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g471600",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nThu, Jan 1, 2026 to Mon, Feb 23, 2026 @ Station Arts Centre CooperativeCommunity: Station Arts Centre Cooperative \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4154/a-selection-of-specimens-estevan-art-gallery-museum&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4154&name=a-selection-of-specimens-estevan-art-gallery&phone=museum&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-estevan-art-gallery-museum"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Estevan Art Gallery & Museum Present A Selection of Specimens at Estevan Art Gallery & Museum from 2026-04-01  to 2026-06-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472440",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-04-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-06-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4154/a-selection-of-specimens-estevan-art-gallery-museum"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4154"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g472460"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g472480"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g472500"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g472520"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g472560"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472460",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472480",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4154/a-selection-of-specimens-estevan-art-gallery-museum&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472500",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Estevan Art Gallery & Museum"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.estevanartgallery.com"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472520",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Estevan Art Gallery & Museum"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g472540"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "118 - 4th Street, Estevan, SK, S4A 0T4"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472560",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g472540",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "49.1317354"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-102.9747693"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473480",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g473500",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g474180",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nWed, Apr 1, 2026 to Tue, Jun 23, 2026 @ Estevan Art Gallery & MuseumCommunity: Estevan Art Gallery & Museum \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4155/a-selection-of-specimens-nipawin-art-club&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4155&name=a-selection-of-specimens-nipawin-art&phone=club&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-central-park-library-arts-centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Nipawin Art Club Present A Selection of Specimens at Central Park Library/Arts Centre from 2026-09-01  to 2026-09-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475060",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-09-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4155/a-selection-of-specimens-nipawin-art-club"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4155"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g475080"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g475100"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g475120"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g475140"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g475180"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475080",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475100",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4155/a-selection-of-specimens-nipawin-art-club&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475120",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Nipawin Art Club"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4155/a-selection-of-specimens-nipawin-art-club&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475140",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Central Park Library/Arts Centre"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g475160"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "501 - 2nd Street East, Nipawin, SK, S0E 1E0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475180",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g475160",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "53.3607318"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-104.0107802"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476100",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476120",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g476820",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nTue, Sep 1, 2026 to Wed, Sep 23, 2026 @ Central Park Library/Arts CentreCommunity: Nipawin Art Club \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4156/a-selection-of-specimens-yorkton-arts-council&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4156&name=a-selection-of-specimens-yorkton-arts&phone=council&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-community-partners-gallery"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Yorkton Arts Council Present A Selection of Specimens at Community pARTners Gallery from 2026-10-01  to 2026-11-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477680",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-10-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4156/a-selection-of-specimens-yorkton-arts-council"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4156"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g477700"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g477720"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g477740"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g477760"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g477800"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477700",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477720",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4156/a-selection-of-specimens-yorkton-arts-council&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477740",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Yorkton Arts Council"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.yorktonarts.ca"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477760",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Community pARTners Gallery"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g477780"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Yorkton Public Library- North (Back) Entrance, Yorkton, SK, S3N 0L9"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477800",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g477780",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "51.2114481"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-102.4663825"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478720",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g478740",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g479360",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nThu, Oct 1, 2026 to Mon, Nov 23, 2026 @ Community pARTners GalleryCommunity: Yorkton Arts Council \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4157/a-selection-of-specimens-prince-albert-council-for-the-arts&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4157&name=a-selection-of-specimens-prince-albert-council-for-the&phone=arts&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-john-v-hicks-gallery-at-the-margo-fournier-arts-centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Prince Albert Council for the Arts Present A Selection of Specimens at John V. Hicks Gallery at the Margo Fournier Arts Centre from 2026-12-01  to 2027-01-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480200",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-12-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-01-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4157/a-selection-of-specimens-prince-albert-council-for-the-arts"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4157"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g480220"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g480240"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g480260"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g480280"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g480320"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480220",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480240",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4157/a-selection-of-specimens-prince-albert-council-for-the-arts&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480260",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Prince Albert Council for the Arts"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4157/www.princealbertarts.com/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "John V. Hicks Gallery at the Margo Fournier Arts Centre"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g480300"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "1010 Central Ave, Prince Albert, SK, S6V 5A4"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480320",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480300",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "53.2037113"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-105.7560291"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480900",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g480920",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g481600",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nTue, Dec 1, 2026 to Sat, Jan 23, 2027 @ John V. Hicks Gallery at the Margo Fournier Arts CentreCommunity: Prince Albert Council for the Arts \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4158/a-selection-of-specimens-humboldt-area-arts-council&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4158&name=a-selection-of-specimens-humboldt-area-arts&phone=council&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-humboldt-and-district-gallery"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Humboldt Area Arts Council Present A Selection of Specimens at Humboldt and District Gallery from 2027-05-01  to 2027-06-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482460",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-05-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-06-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4158/a-selection-of-specimens-humboldt-area-arts-council"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4158"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g482480"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g482500"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g482520"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g482540"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g482580"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482480",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482500",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4158/a-selection-of-specimens-humboldt-area-arts-council&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482520",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Humboldt Area Arts Council"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4158/humboldtmuseum.ca/"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482540",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Humboldt and District Gallery"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g482560"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "601 Main Street, Humboldt, SK, "
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.humboldtmuseum.ca/"
+      },
+      {
+        "@id": "http://www.wikidata.org/entity/Q114431242"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482580",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g482560",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "52.1989411"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-105.1231602"
+      }
+    ]
+  },
+  {
+    "@id": "_:g483500",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g483520",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g484200",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nSat, May 1, 2027 to Wed, Jun 23, 2027 @ Humboldt and District GalleryCommunity: Humboldt Area Arts Council \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4159/a-selection-of-specimens-shaunavon-arts-council&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4159&name=a-selection-of-specimens-shaunavon-arts&phone=council&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-grand-coteau-heritage-and-cultural-centre"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Shaunavon Arts Council Present A Selection of Specimens at Grand Coteau Heritage and Cultural Centre from 2027-09-01  to 2027-10-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485080",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-09-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2027-10-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4159/a-selection-of-specimens-shaunavon-arts-council"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4159"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g485100"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g485120"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g485140"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g485160"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g485200"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485100",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485120",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4159/a-selection-of-specimens-shaunavon-arts-council&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485140",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Shaunavon Arts Council"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osac.ca/shaunavonartscouncil"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485160",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Grand Coteau Heritage and Cultural Centre"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g485180"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Box 966, 440 Centre Street, Shaunavon, SK, S0N 2M0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485200",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485180",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "49.6482318"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-108.408474"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485220",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485240",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g485320",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nWed, Sep 1, 2027 to Sat, Oct 23, 2027 @ Grand Coteau Heritage and Cultural CentreCommunity: Shaunavon Arts Council \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4092/a-selection-of-specimens-lloydminster-museum-archive&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4092&name=a-selection-of-specimens-lloydminster-museum&phone=archive&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-lloydminster-museum-archive"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Lloydminster Museum + Archive Present A Selection of Specimens at Lloydminster Museum + Archive from 2024-05-01  to 2024-05-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486200",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-05-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4092/a-selection-of-specimens-lloydminster-museum-archive"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4092"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g486220"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g486240"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g486260"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g486280"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g486320"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486220",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486240",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4092/a-selection-of-specimens-lloydminster-museum-archive&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486260",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Lloydminster Museum + Archive"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4092/a-selection-of-specimens-lloydminster-museum-archive&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486280",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Lloydminster Museum + Archive"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g486300"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "4207 44th St, Lloydminster, SK, S9V 2H1"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486320",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486300",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": ""
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": ""
+      }
+    ]
+  },
+  {
+    "@id": "_:g486820",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486840",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g486940",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nWed, May 1, 2024 to Thu, May 23, 2024 @ Lloydminster Museum + ArchiveCommunity: Lloydminster Museum + Archive \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  },
+  {
+    "@id": "https://osac.ca/visual-media-arts/event/112-VA4144/a-selection-of-specimens-biggar-district-arts-council&Itemid=1819",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=112&event=VA4144&name=a-selection-of-specimens-biggar-district-arts&phone=council&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "a-selection-of-specimens-biggar-museum-and-gallery"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Biggar & District Arts Council Present A Selection of Specimens at Biggar Museum and Gallery from 2024-06-01  to 2024-06-23"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Visual and Media Arts, Saskatchewan, Arts Councils,A Selection of Specimens"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "Specimen.jpg"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.ca/images/VA/Images/CurrentToursSpecimen.jpg"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487040",
+    "@type": [
+      "http://schema.org/VisualArtsEvent"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "A Selection of Specimens"
+      }
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-01T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2024-06-23T06:00:00+00:00"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@value": "https://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@value": "https://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4144/a-selection-of-specimens-biggar-district-arts-council"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@value": "VA4144"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/VisualArtsEvent"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/VA/Images/CurrentTours/Specimen.jpg"
+      }
+    ],
+    "http://schema.org/contributor": [
+      {
+        "@id": "_:g487060"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@value": "A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea  [...]"
+      }
+    ],
+    "http://schema.org/offers": [
+      {
+        "@id": "_:g487080"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "_:g487100"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "_:g487120"
+      }
+    ],
+    "http://schema.org/aggregateRating": [
+      {
+        "@id": "_:g487160"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487060",
+    "@type": [
+      "http://schema.org/Person"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Kristin Teetaert"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487080",
+    "@type": [
+      "http://schema.org/Offer"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4144/a-selection-of-specimens-biggar-district-arts-council&Itemid=1819"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487100",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Biggar & District Arts Council"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/visual-media-arts/event/112-VA4144/www.osac.ca/biggararts"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487120",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/name": [
+      {
+        "@value": "Biggar Museum and Gallery"
+      }
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "_:g487140"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@value": "Box 1598, 202 - 2nd Avenue West, Biggar, SK, S0K 0M0"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487160",
+    "@type": [
+      "http://schema.org/AggregateRating"
+    ],
+    "http://schema.org/ratingValue": [
+      {
+        "@value": "5"
+      }
+    ],
+    "http://schema.org/reviewCount": [
+      {
+        "@value": "1000"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487140",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@value": "52.0562301"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@value": "-107.9884906"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487580",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
+      }
+    ]
+  },
+  {
+    "@id": "_:g487600",
+    "http://www.w3.org/1999/xhtml/vocab#role": [
+      {
+        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
+      }
+    ]
+  },
+  {
+    "@id": "_:g488280",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@value": "\n        A Selection of Specimens\n    \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nSat, Jun 1, 2024 to Sun, Jun 23, 2024 @ Biggar Museum and GalleryCommunity: Biggar & District Arts Council \n  \n\t\t\t\t  Kristin Teetaert, \"plantabis \"dentes et supercilium\" \", hand-dyed wool, clay, (and aluminum wire), dimensions variable, 2023\n\t\t\t\t A Selection of Specimens is a solo exhibition be artist Kristin Teetaert. This exhibition features drawings, felt sculptures, and painted tiles. Kristin states: \"The specimens came to life in 2012 in the form of a charcoal gestural sketch. The idea of sculpting them in wool followed. Wool allowed me to use bright colours and to create sculptures that were malleable. A tactile person, I wanted to play with my sculptures. This idea of being able to play with and manipulate the sculptures inspired the tiles; they are all able to interconnect with each other on all four sides. An important aspect of them was the ability to create different paths between the specimens by physically moving the tiles, or as a viewer, by following the shapes as they weave through the installation. I often alternate between two and three dimensions as I work. \n\nThey are surprisingly autobiographical.  I have always had a fascination with botany and nature, and a love of the unique shapes found in the natural and microscopic world. This, combined with my love of colour, has resulted in this series of playful sculptures and drawings that explore the ideas of interconnection, growth, spontaneity, and evolution.\"ExhibitionsThu, Aug 1, 2024 to Mon, Sep 23, 2024 at the Last Mountain Lake Cultural Centre - Regina Beach, SK.Fri, Nov 1, 2024 to Sat, Nov 23, 2024 at the Gallery on 3rd - Manitou  Beach, SK.Sun, Dec 1, 2024 to Mon, Dec 23, 2024 at the Mistasinihk Place - La Ronge, SK.Wed, Jan 1, 2025 to Thu, Jan 23, 2025 at the Moosomin & District Arts Council - Moosomin, SK.Sat, Feb 1, 2025 to Sun, Feb 23, 2025 at the Indian Head Theatre and Community Arts Inc. - Indian Head, SK.Sun, Jun 1, 2025 to Wed, Jul 23, 2025 at the Sherven-Smith Art Gallery - Melfort, SK.Mon, Dec 1, 2025 to Tue, Dec 23, 2025 at the Gallery Works and The Third Dimension - Melville, SK.Thu, Jan 1, 2026 to Mon, Feb 23, 2026 at the Station Arts Centre Cooperative - Rosthern, SK.Wed, Apr 1, 2026 to Tue, Jun 23, 2026 at the Estevan Art Gallery & Museum - Estevan, SK.Tue, Sep 1, 2026 to Wed, Sep 23, 2026 at the Central Park Library/Arts Centre - Nipawin, SK.Thu, Oct 1, 2026 to Mon, Nov 23, 2026 at the Community pARTners Gallery - Yorkton, SK.Tue, Dec 1, 2026 to Sat, Jan 23, 2027 at the John V. Hicks Gallery at the Margo Fournier Arts Centre - Prince Albert, SK.Sat, May 1, 2027 to Wed, Jun 23, 2027 at the Humboldt and District Gallery - Humboldt, SK.Wed, Sep 1, 2027 to Sat, Oct 23, 2027 at the Grand Coteau Heritage and Cultural Centre - Shaunavon, SK.    "
+      }
+    ]
+  }
+]
