@@ -43,6 +43,9 @@ def get_entities(entityType)
       break
     end
   end
+  
+  file = File.read("./sparql/replace_blank_nodes.sparql").gsub("domain_name", EntityURLs[:BASE])
+  graph.query(SPARQL.parse(file, update: true))
 
   File.open("outputs/#{entityType}.jsonld", 'w') do |file|
     file.puts(graph.dump(:jsonld))
