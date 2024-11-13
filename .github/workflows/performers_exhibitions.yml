@@ -2,6 +2,8 @@ name: Fetch Performer and Exhibitions
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '0 0 2 * *'
 
 jobs:
   fetch-and-commit-data:
