@@ -46,28 +46,10 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8817/images/logos/OSAC.png"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8703/images/logos/OSAC.png"
-      },
-      {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA8841/images/logos/OSAC.png"
       },
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA8842/images/logos/OSAC.png"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8855/images/logos/OSAC.png"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8757/images/logos/OSAC.png"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8800/images/logos/OSAC.png"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8740/images/logos/OSAC.png"
       },
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA8754/images/logos/OSAC.png"
@@ -93,28 +75,10 @@
     ],
     "http://schema.org/contentUrl": [
       {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8817/images/logos/OSAC.png"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8703/images/logos/OSAC.png"
-      },
-      {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA8841/images/logos/OSAC.png"
       },
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA8842/images/logos/OSAC.png"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8855/images/logos/OSAC.png"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8757/images/logos/OSAC.png"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8800/images/logos/OSAC.png"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8740/images/logos/OSAC.png"
       },
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA8754/images/logos/OSAC.png"
@@ -179,28 +143,10 @@
     ],
     "http://schema.org/url": [
       {
-        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA8817&amp;metaname=eliza-mary-doyle-dekker-centre&amp;Itemid=1819"
-      },
-      {
-        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA8703&amp;metaname=jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council&amp;Itemid=1819"
-      },
-      {
         "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA8841&amp;metaname=lisa-brokop-present-s-the-patsy-cline-project-hank-lives-weyburn-concert-series&amp;Itemid=1819"
       },
       {
         "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA8842&amp;metaname=lisa-brokop-present-s-the-patsy-cline-project-hank-lives-swift-current-arts-council&amp;Itemid=1819"
-      },
-      {
-        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA8855&amp;metaname=penderecki-string-quartet-regina-musical-club&amp;Itemid=1819"
-      },
-      {
-        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA8757&amp;metaname=rum-ragged-lloydminster-allied-arts-council&amp;Itemid=1819"
-      },
-      {
-        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA8800&amp;metaname=the-misery-mountain-boys-moose-jaw-cultural-centre&amp;Itemid=1819"
-      },
-      {
-        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA8740&amp;metaname=the-misery-mountain-boys-kindersley-district-arts-council&amp;Itemid=1819"
       },
       {
         "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA8754&amp;metaname=the-misery-mountain-boys-leader-district-arts-council&amp;Itemid=1819"
@@ -226,28 +172,10 @@
     ],
     "http://schema.org/name": [
       {
-        "@value": "eliza-mary-doyle-dekker-centre"
-      },
-      {
-        "@value": "jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council"
-      },
-      {
         "@value": "lisa-brokop-present-s-the-patsy-cline-project-hank-lives-weyburn-concert-series"
       },
       {
         "@value": "lisa-brokop-present-s-the-patsy-cline-project-hank-lives-swift-current-arts-council"
-      },
-      {
-        "@value": "penderecki-string-quartet-regina-musical-club"
-      },
-      {
-        "@value": "rum-ragged-lloydminster-allied-arts-council"
-      },
-      {
-        "@value": "the-misery-mountain-boys-moose-jaw-cultural-centre"
-      },
-      {
-        "@value": "the-misery-mountain-boys-kindersley-district-arts-council"
       },
       {
         "@value": "the-misery-mountain-boys-leader-district-arts-council"
@@ -273,28 +201,10 @@
     ],
     "http://schema.org/description": [
       {
-        "@value": "OSAC Arts Council the Dekker Centre Present Eliza Mary Doyle in concert at Dekker Centre-Lawrence Hall 2025-04-23 "
-      },
-      {
-        "@value": "OSAC Arts Council the Swift Current Arts Council Present Jack Semple Band Gordon Lightfoot Tribute in concert at Event Centre 2025-04-05 "
-      },
-      {
         "@value": "OSAC Arts Council the Weyburn Concert Series Present Lisa Brokop Present&#039;s &quot;The Patsy Cline Project &amp; Hank LIVES in concert at The Cugnet Centre 2025-05-08 "
       },
       {
         "@value": "OSAC Arts Council the Swift Current Arts Council Present Lisa Brokop Present&#039;s &quot;The Patsy Cline Project &amp; Hank LIVES in concert at Event Centre 2025-05-09 "
-      },
-      {
-        "@value": "OSAC Arts Council the Regina Musical Club Present Penderecki String Quartet in concert at Darke Hall 2025-04-06 "
-      },
-      {
-        "@value": "OSAC Arts Council the Lloydminster Allied Arts Council Present Rum Ragged in concert at Vic Juba Community Theatre, Lakeland College 2025-04-16 "
-      },
-      {
-        "@value": "OSAC Arts Council the Moose Jaw Cultural Centre Present The Misery Mountain Boys in concert at Mae Wilson Theatre 2025-04-30 "
-      },
-      {
-        "@value": "OSAC Arts Council the Kindersley &amp; District Arts Council Present The Misery Mountain Boys in concert at Norman Ritchie Community Centre 2025-05-01 "
       },
       {
         "@value": "OSAC Arts Council the Leader &amp; District Arts Council Present The Misery Mountain Boys in concert at Leader Community Centre 2025-05-02 "
@@ -361,28 +271,10 @@
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8817/eliza-mary-doyle-dekker-centre"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8703/jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council"
-      },
-      {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA8841/lisa-brokop-present-s-the-patsy-cline-project-hank-lives-weyburn-concert-series"
       },
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA8842/lisa-brokop-present-s-the-patsy-cline-project-hank-lives-swift-current-arts-council"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8855/penderecki-string-quartet-regina-musical-club"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8757/rum-ragged-lloydminster-allied-arts-council"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8800/the-misery-mountain-boys-moose-jaw-cultural-centre"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8740/the-misery-mountain-boys-kindersley-district-arts-council"
       },
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA8754/the-misery-mountain-boys-leader-district-arts-council"
@@ -404,114 +296,6 @@
       },
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA8722/the-misery-mountain-boys-biggar-district-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/performing-arts/event/121-PA8817/eliza-mary-doyle-dekker-centre",
-    "fb:app_id": [
-      {
-        "@language": "en-gb",
-        "@value": "340486642645761"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-gb",
-        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=121&event=PA8817&metaname=eliza-mary-doyle-dekker-centre&Itemid=1819"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-gb",
-        "@value": "eliza-mary-doyle-dekker-centre"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-gb",
-        "@value": "OSAC Arts Council the Dekker Centre Present Eliza Mary Doyle in concert at Dekker Centre-Lawrence Hall 2025-04-23"
-      }
-    ],
-    "http://ogp.me/ns#keywords": [
-      {
-        "@language": "en-gb",
-        "@value": "Performing Arts, Saskatchewan, Arts Councils,Eliza Mary Doyle"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-gb",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-gb",
-        "@value": "/images/PA/images/elizamarydoyle.jpg"
-      },
-      {
-        "@language": "en-gb",
-        "@value": "https://www.osac.ca/images/PA/images/elizamarydoyle.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8817/eliza-mary-doyle-dekker-centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/performing-arts/event/121-PA8703/jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council",
-    "fb:app_id": [
-      {
-        "@language": "en-gb",
-        "@value": "340486642645761"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-gb",
-        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=121&event=PA8703&metaname=jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council&Itemid=1819"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-gb",
-        "@value": "jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-gb",
-        "@value": "OSAC Arts Council the Swift Current Arts Council Present Jack Semple Band Gordon Lightfoot Tribute in concert at Event Centre 2025-04-05"
-      }
-    ],
-    "http://ogp.me/ns#keywords": [
-      {
-        "@language": "en-gb",
-        "@value": "Performing Arts, Saskatchewan, Arts Councils,Jack Semple Band Gordon Lightfoot Tribute"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-gb",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-gb",
-        "@value": "/images/PA/images/JackSemple.jpg"
-      },
-      {
-        "@language": "en-gb",
-        "@value": "https://www.osac.ca/images/PA/images/JackSemple.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8703/jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council"
       }
     ]
   },
@@ -620,217 +404,6 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA8842/lisa-brokop-present-s-the-patsy-cline-project-hank-lives-swift-current-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/performing-arts/event/121-PA8855/penderecki-string-quartet-regina-musical-club",
-    "fb:app_id": [
-      {
-        "@language": "en-gb",
-        "@value": "340486642645761"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-gb",
-        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=121&event=PA8855&metaname=penderecki-string-quartet-regina-musical-club&Itemid=1819"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-gb",
-        "@value": "penderecki-string-quartet-regina-musical-club"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-gb",
-        "@value": "OSAC Arts Council the Regina Musical Club Present Penderecki String Quartet in concert at Darke Hall 2025-04-06"
-      }
-    ],
-    "http://ogp.me/ns#keywords": [
-      {
-        "@language": "en-gb",
-        "@value": "Performing Arts, Saskatchewan, Arts Councils,Penderecki String Quartet"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-gb",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-gb",
-        "@value": "/images/PA/images/PendereckiStringQuartet.jpg"
-      },
-      {
-        "@language": "en-gb",
-        "@value": "https://www.osac.ca/images/PA/images/PendereckiStringQuartet.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8855/penderecki-string-quartet-regina-musical-club"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/performing-arts/event/121-PA8757/rum-ragged-lloydminster-allied-arts-council",
-    "fb:app_id": [
-      {
-        "@language": "en-gb",
-        "@value": "340486642645761"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-gb",
-        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=121&event=PA8757&metaname=rum-ragged-lloydminster-allied-arts-council&Itemid=1819"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-gb",
-        "@value": "rum-ragged-lloydminster-allied-arts-council"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-gb",
-        "@value": "OSAC Arts Council the Lloydminster Allied Arts Council Present Rum Ragged in concert at Vic Juba Community Theatre, Lakeland College 2025-04-16"
-      }
-    ],
-    "http://ogp.me/ns#keywords": [
-      {
-        "@language": "en-gb",
-        "@value": "Performing Arts, Saskatchewan, Arts Councils,Rum Ragged"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-gb",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-gb",
-        "@value": "/images/PA/images/rum_ragged.jpg"
-      },
-      {
-        "@language": "en-gb",
-        "@value": "https://www.osac.ca/images/PA/images/rum_ragged.jpg"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/performing-arts/event/121-PA8800/the-misery-mountain-boys-moose-jaw-cultural-centre",
-    "fb:app_id": [
-      {
-        "@language": "en-gb",
-        "@value": "340486642645761"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-gb",
-        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=121&event=PA8800&metaname=the-misery-mountain-boys-moose-jaw-cultural-centre&Itemid=1819"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-gb",
-        "@value": "the-misery-mountain-boys-moose-jaw-cultural-centre"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-gb",
-        "@value": "OSAC Arts Council the Moose Jaw Cultural Centre Present The Misery Mountain Boys in concert at Mae Wilson Theatre 2025-04-30"
-      }
-    ],
-    "http://ogp.me/ns#keywords": [
-      {
-        "@language": "en-gb",
-        "@value": "Performing Arts, Saskatchewan, Arts Councils,The Misery Mountain Boys"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-gb",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-gb",
-        "@value": "/images/PA/images/TheMiseryMountainBoys.jpg"
-      },
-      {
-        "@language": "en-gb",
-        "@value": "https://www.osac.ca/images/PA/images/TheMiseryMountainBoys.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8800/the-misery-mountain-boys-moose-jaw-cultural-centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/performing-arts/event/121-PA8740/the-misery-mountain-boys-kindersley-district-arts-council",
-    "fb:app_id": [
-      {
-        "@language": "en-gb",
-        "@value": "340486642645761"
-      }
-    ],
-    "http://ogp.me/ns#url": [
-      {
-        "@language": "en-gb",
-        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=121&event=PA8740&metaname=the-misery-mountain-boys-kindersley-district-arts-council&Itemid=1819"
-      }
-    ],
-    "http://ogp.me/ns#title": [
-      {
-        "@language": "en-gb",
-        "@value": "the-misery-mountain-boys-kindersley-district-arts-council"
-      }
-    ],
-    "http://ogp.me/ns#description": [
-      {
-        "@language": "en-gb",
-        "@value": "OSAC Arts Council the Kindersley & District Arts Council Present The Misery Mountain Boys in concert at Norman Ritchie Community Centre 2025-05-01"
-      }
-    ],
-    "http://ogp.me/ns#keywords": [
-      {
-        "@language": "en-gb",
-        "@value": "Performing Arts, Saskatchewan, Arts Councils,The Misery Mountain Boys"
-      }
-    ],
-    "http://ogp.me/ns#type": [
-      {
-        "@language": "en-gb",
-        "@value": "article"
-      }
-    ],
-    "http://ogp.me/ns#image": [
-      {
-        "@language": "en-gb",
-        "@value": "/images/PA/images/TheMiseryMountainBoys.jpg"
-      },
-      {
-        "@language": "en-gb",
-        "@value": "https://www.osac.ca/images/PA/images/TheMiseryMountainBoys.jpg"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8740/the-misery-mountain-boys-kindersley-district-arts-council"
       }
     ]
   },
@@ -1203,273 +776,7 @@
     ]
   },
   {
-    "@id": "_:g460040",
-    "@type": [
-      "http://schema.org/Person"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Eliza Mary Doyle"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8817/twitter.com/elizamarydoyle"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8817/instagram.com/elizamarydoyle"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q126017434"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460060",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.dekkercentre.com/TheatreManager/1/online?event=0"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460080",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dekker Centre"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.dekkercentre.com"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460100",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Dekker Centre-Lawrence Hall"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g460120"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g460140"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460120",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "52.7606214"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-108.2661012"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460140",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "P.O. Box 656,  1-623 Carlton Trail"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "North Battleford"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "SK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "S9A 2Y7"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g460160",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462620",
-    "@type": [
-      "http://schema.org/MusicGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Jack Semple Band Gordon Lightfoot Tribute"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/JackSempleMusic?fref=ts"
-      },
-      {
-        "@id": "https://twitter.com/JackBSemple"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q741457"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462640",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tprowest.ticketpro.ca/en/pages/1616323154"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462660",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Swift Current Arts Council"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8703/scartscouncil.ca/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462680",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Event Centre"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g462700"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g462720"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462700",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "50.3044444"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-107.7841667"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462720",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "1401 North Service Road E"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Swift Current"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "SK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "S9H 3X6"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g462740",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g464300",
+    "@id": "_:g459360",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -1491,7 +798,7 @@
     ]
   },
   {
-    "@id": "_:g464320",
+    "@id": "_:g459380",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1502,7 +809,7 @@
     ]
   },
   {
-    "@id": "_:g464340",
+    "@id": "_:g459400",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1518,7 +825,7 @@
     ]
   },
   {
-    "@id": "_:g464360",
+    "@id": "_:g459420",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1529,17 +836,17 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g464380"
+        "@id": "_:g459440"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g464400"
+        "@id": "_:g459460"
       }
     ]
   },
   {
-    "@id": "_:g464380",
+    "@id": "_:g459440",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1555,7 +862,7 @@
     ]
   },
   {
-    "@id": "_:g464400",
+    "@id": "_:g459460",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1586,7 +893,7 @@
     ]
   },
   {
-    "@id": "_:g464420",
+    "@id": "_:g459480",
     "@type": [
       "http://schema.org/AggregateRating"
     ],
@@ -1602,7 +909,7 @@
     ]
   },
   {
-    "@id": "_:g466900",
+    "@id": "_:g462380",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -1624,7 +931,7 @@
     ]
   },
   {
-    "@id": "_:g466920",
+    "@id": "_:g462400",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -1635,7 +942,7 @@
     ]
   },
   {
-    "@id": "_:g466940",
+    "@id": "_:g462420",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -1651,7 +958,7 @@
     ]
   },
   {
-    "@id": "_:g466960",
+    "@id": "_:g462440",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -1662,17 +969,17 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g466980"
+        "@id": "_:g462460"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g467000"
+        "@id": "_:g462480"
       }
     ]
   },
   {
-    "@id": "_:g466980",
+    "@id": "_:g462460",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -1688,7 +995,7 @@
     ]
   },
   {
-    "@id": "_:g467000",
+    "@id": "_:g462480",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -1719,7 +1026,7 @@
     ]
   },
   {
-    "@id": "_:g467020",
+    "@id": "_:g462500",
     "@type": [
       "http://schema.org/AggregateRating"
     ],
@@ -1735,276 +1042,7 @@
     ]
   },
   {
-    "@id": "_:g468440",
-    "@type": [
-      "http://schema.org/MusicGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Penderecki String Quartet"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/penderecki.quartet"
-      },
-      {
-        "@id": "https://twitter.com/PendereckiSQ"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q107630553"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468460",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.darkehall.ca/TheatreManager/1/online?performance=304"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468480",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Regina Musical Club"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://darkehall.ca/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468500",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Darke Hall"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g468520"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g468540"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468520",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "50.4400112"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-104.6148241"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468540",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "2255 College Avenue"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Regina"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "SK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "S4P 0S9"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g468560",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469880",
-    "@type": [
-      "http://schema.org/"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Rum Ragged"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8757/www.facebook.com/RumRagged/"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8757/www.instagram.com/rumragged"
-      },
-      {
-        "@id": "http://open.spotify.com/artist/3C98MKP4oHJRxdNCnbRZIf"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q106253728"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469900",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.vicjubatheatre.ca/TheatreManager/1/online?bestavail=1453&qty=0"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469920",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Lloydminster Allied Arts Council"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8757/rum-ragged-lloydminster-allied-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469940",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Vic Juba Community Theatre, Lakeland College"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g469960"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g469980"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469960",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "53.2607622"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-110.0372377"
-      }
-    ]
-  },
-  {
-    "@id": "_:g469980",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "Bag 6600,  2602 - 59 Avenue"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Lloydminster"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "SK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "S9V 1Z3"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g470000",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472440",
+    "@id": "_:g464660",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -2026,273 +1064,7 @@
     ]
   },
   {
-    "@id": "_:g472460",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://tickets.moosejawculture.ca/TheatreManager/1/online?event=0"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472480",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Moose Jaw Cultural Centre"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.moosejawculture.ca/"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472500",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Mae Wilson Theatre"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g472520"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g472540"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472520",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "50.391814"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-105.5346207"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472540",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "217 Main Street North,  Moose Jaw,  SK"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": ""
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": ""
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": ""
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g472560",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475420",
-    "@type": [
-      "http://schema.org/MusicGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "The Misery Mountain Boys"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/miserymountainboys/"
-      },
-      {
-        "@id": "https://www.instagram.com/miserymountainboys/?hl=en"
-      },
-      {
-        "@id": "https://open.spotify.com/album/1dDVVma7iS4QiN9AghCznl?fbclid=IwAR02RDMzduiFVQ6AZDz09YVTl900kwrIqNWC2cHjxYI3wUbHretFqhN1QI4"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475440",
-    "@type": [
-      "http://schema.org/Offer"
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.eventbrite.ca/o/kindersley-and-district-arts-council-96787230003"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475460",
-    "@type": [
-      "http://schema.org/Organization"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Kindersley & District Arts Council"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8740/www.osac.ca/kindersleyanddistrictartscouncil"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475480",
-    "@type": [
-      "http://schema.org/Place"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Norman Ritchie Community Centre"
-      }
-    ],
-    "http://schema.org/geo": [
-      {
-        "@id": "_:g475500"
-      }
-    ],
-    "http://schema.org/address": [
-      {
-        "@id": "_:g475520"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475500",
-    "@type": [
-      "http://schema.org/GeoCoordinates"
-    ],
-    "http://schema.org/latitude": [
-      {
-        "@value": "51.4731841"
-      }
-    ],
-    "http://schema.org/longitude": [
-      {
-        "@value": "-109.1644192"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475520",
-    "@type": [
-      "http://schema.org/PostalAddress"
-    ],
-    "http://schema.org/streetAddress": [
-      {
-        "@value": "1023 1st Street West"
-      }
-    ],
-    "http://schema.org/addressLocality": [
-      {
-        "@value": "Kindersley"
-      }
-    ],
-    "http://schema.org/addressRegion": [
-      {
-        "@value": "SK"
-      }
-    ],
-    "http://schema.org/postalCode": [
-      {
-        "@value": "S0L 1S0"
-      }
-    ],
-    "http://schema.org/addressCountry": [
-      {
-        "@value": "CA"
-      }
-    ]
-  },
-  {
-    "@id": "_:g475540",
-    "@type": [
-      "http://schema.org/AggregateRating"
-    ],
-    "http://schema.org/ratingValue": [
-      {
-        "@value": "5"
-      }
-    ],
-    "http://schema.org/reviewCount": [
-      {
-        "@value": "1000"
-      }
-    ]
-  },
-  {
-    "@id": "_:g477080",
-    "@type": [
-      "http://schema.org/MusicGroup"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "The Misery Mountain Boys"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.facebook.com/miserymountainboys/"
-      },
-      {
-        "@id": "https://www.instagram.com/miserymountainboys/?hl=en"
-      },
-      {
-        "@id": "https://open.spotify.com/album/1dDVVma7iS4QiN9AghCznl?fbclid=IwAR02RDMzduiFVQ6AZDz09YVTl900kwrIqNWC2cHjxYI3wUbHretFqhN1QI4"
-      }
-    ]
-  },
-  {
-    "@id": "_:g477100",
+    "@id": "_:g464680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2303,7 +1075,7 @@
     ]
   },
   {
-    "@id": "_:g477120",
+    "@id": "_:g464700",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2319,7 +1091,7 @@
     ]
   },
   {
-    "@id": "_:g477140",
+    "@id": "_:g464720",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2330,17 +1102,17 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g477160"
+        "@id": "_:g464740"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g477180"
+        "@id": "_:g464760"
       }
     ]
   },
   {
-    "@id": "_:g477160",
+    "@id": "_:g464740",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2356,7 +1128,7 @@
     ]
   },
   {
-    "@id": "_:g477180",
+    "@id": "_:g464760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2387,7 +1159,7 @@
     ]
   },
   {
-    "@id": "_:g477200",
+    "@id": "_:g464780",
     "@type": [
       "http://schema.org/AggregateRating"
     ],
@@ -2403,7 +1175,7 @@
     ]
   },
   {
-    "@id": "_:g478140",
+    "@id": "_:g466760",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -2425,7 +1197,7 @@
     ]
   },
   {
-    "@id": "_:g478160",
+    "@id": "_:g466780",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2436,7 +1208,7 @@
     ]
   },
   {
-    "@id": "_:g478180",
+    "@id": "_:g466800",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2452,7 +1224,7 @@
     ]
   },
   {
-    "@id": "_:g478200",
+    "@id": "_:g466820",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2463,17 +1235,17 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g478220"
+        "@id": "_:g466840"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g478240"
+        "@id": "_:g466860"
       }
     ]
   },
   {
-    "@id": "_:g478220",
+    "@id": "_:g466840",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2489,7 +1261,7 @@
     ]
   },
   {
-    "@id": "_:g478240",
+    "@id": "_:g466860",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2520,7 +1292,7 @@
     ]
   },
   {
-    "@id": "_:g478260",
+    "@id": "_:g466880",
     "@type": [
       "http://schema.org/AggregateRating"
     ],
@@ -2536,7 +1308,7 @@
     ]
   },
   {
-    "@id": "_:g480360",
+    "@id": "_:g469660",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -2558,7 +1330,7 @@
     ]
   },
   {
-    "@id": "_:g480380",
+    "@id": "_:g469680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2569,7 +1341,7 @@
     ]
   },
   {
-    "@id": "_:g480400",
+    "@id": "_:g469700",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2585,7 +1357,7 @@
     ]
   },
   {
-    "@id": "_:g480420",
+    "@id": "_:g469720",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2596,17 +1368,17 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g480440"
+        "@id": "_:g469740"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g480460"
+        "@id": "_:g469760"
       }
     ]
   },
   {
-    "@id": "_:g480440",
+    "@id": "_:g469740",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2622,7 +1394,7 @@
     ]
   },
   {
-    "@id": "_:g480460",
+    "@id": "_:g469760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2653,7 +1425,7 @@
     ]
   },
   {
-    "@id": "_:g480480",
+    "@id": "_:g469780",
     "@type": [
       "http://schema.org/AggregateRating"
     ],
@@ -2669,7 +1441,7 @@
     ]
   },
   {
-    "@id": "_:g483280",
+    "@id": "_:g471880",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -2691,7 +1463,7 @@
     ]
   },
   {
-    "@id": "_:g483300",
+    "@id": "_:g471900",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2702,7 +1474,7 @@
     ]
   },
   {
-    "@id": "_:g483320",
+    "@id": "_:g471920",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2718,7 +1490,7 @@
     ]
   },
   {
-    "@id": "_:g483340",
+    "@id": "_:g471940",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2729,17 +1501,17 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g483360"
+        "@id": "_:g471960"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g483380"
+        "@id": "_:g471980"
       }
     ]
   },
   {
-    "@id": "_:g483360",
+    "@id": "_:g471960",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2755,7 +1527,7 @@
     ]
   },
   {
-    "@id": "_:g483380",
+    "@id": "_:g471980",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2786,7 +1558,7 @@
     ]
   },
   {
-    "@id": "_:g483400",
+    "@id": "_:g472000",
     "@type": [
       "http://schema.org/AggregateRating"
     ],
@@ -2802,7 +1574,7 @@
     ]
   },
   {
-    "@id": "_:g484920",
+    "@id": "_:g474800",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -2824,7 +1596,7 @@
     ]
   },
   {
-    "@id": "_:g484940",
+    "@id": "_:g474820",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2835,7 +1607,7 @@
     ]
   },
   {
-    "@id": "_:g484960",
+    "@id": "_:g474840",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2851,7 +1623,7 @@
     ]
   },
   {
-    "@id": "_:g484980",
+    "@id": "_:g474860",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2862,17 +1634,17 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g485000"
+        "@id": "_:g474880"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g485020"
+        "@id": "_:g474900"
       }
     ]
   },
   {
-    "@id": "_:g485000",
+    "@id": "_:g474880",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -2888,7 +1660,7 @@
     ]
   },
   {
-    "@id": "_:g485020",
+    "@id": "_:g474900",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -2919,7 +1691,7 @@
     ]
   },
   {
-    "@id": "_:g485040",
+    "@id": "_:g474920",
     "@type": [
       "http://schema.org/AggregateRating"
     ],
@@ -2935,7 +1707,7 @@
     ]
   },
   {
-    "@id": "_:g485500",
+    "@id": "_:g477660",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -2957,7 +1729,7 @@
     ]
   },
   {
-    "@id": "_:g485520",
+    "@id": "_:g477680",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -2968,7 +1740,7 @@
     ]
   },
   {
-    "@id": "_:g485540",
+    "@id": "_:g477700",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -2984,7 +1756,7 @@
     ]
   },
   {
-    "@id": "_:g485560",
+    "@id": "_:g477720",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -2995,17 +1767,17 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g485580"
+        "@id": "_:g477740"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g485600"
+        "@id": "_:g477760"
       }
     ]
   },
   {
-    "@id": "_:g485580",
+    "@id": "_:g477740",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3021,7 +1793,7 @@
     ]
   },
   {
-    "@id": "_:g485600",
+    "@id": "_:g477760",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3052,7 +1824,7 @@
     ]
   },
   {
-    "@id": "_:g485620",
+    "@id": "_:g477780",
     "@type": [
       "http://schema.org/AggregateRating"
     ],
@@ -3068,7 +1840,7 @@
     ]
   },
   {
-    "@id": "_:g487840",
+    "@id": "_:g480180",
     "@type": [
       "http://schema.org/MusicGroup"
     ],
@@ -3090,7 +1862,7 @@
     ]
   },
   {
-    "@id": "_:g487860",
+    "@id": "_:g480200",
     "@type": [
       "http://schema.org/Offer"
     ],
@@ -3101,7 +1873,7 @@
     ]
   },
   {
-    "@id": "_:g487880",
+    "@id": "_:g480220",
     "@type": [
       "http://schema.org/Organization"
     ],
@@ -3117,7 +1889,7 @@
     ]
   },
   {
-    "@id": "_:g487900",
+    "@id": "_:g480240",
     "@type": [
       "http://schema.org/Place"
     ],
@@ -3128,17 +1900,17 @@
     ],
     "http://schema.org/geo": [
       {
-        "@id": "_:g487920"
+        "@id": "_:g480260"
       }
     ],
     "http://schema.org/address": [
       {
-        "@id": "_:g487940"
+        "@id": "_:g480280"
       }
     ]
   },
   {
-    "@id": "_:g487920",
+    "@id": "_:g480260",
     "@type": [
       "http://schema.org/GeoCoordinates"
     ],
@@ -3154,7 +1926,7 @@
     ]
   },
   {
-    "@id": "_:g487940",
+    "@id": "_:g480280",
     "@type": [
       "http://schema.org/PostalAddress"
     ],
@@ -3185,7 +1957,7 @@
     ]
   },
   {
-    "@id": "_:g487960",
+    "@id": "_:g480300",
     "@type": [
       "http://schema.org/AggregateRating"
     ],
@@ -3201,293 +1973,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/83b7a839-b31c-4367-8e2a-8e262aeccd3f",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Eliza Mary Doyle"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-24T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-24T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8817/eliza-mary-doyle-dekker-centre"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8817"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/elizamarydoyle.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g460040"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Saskatchewan's award-winning banjo player, Eliza Doyle, wows global audiences with her charismatic performances, clawhammer banjo skills, and refined songwriting. After playing with The Dead South (earning a Juno in 2018), her career soared. Her late [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g460060"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g460080"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g460100"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.dekkercentre.com"
-      },
-      {
-        "@id": "https://facebook.com/dekkercentre/"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g460160"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8817/eliza-mary-doyle-dekker-centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/b479b555-1408-4043-82c5-db44bee2b536",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8817/eliza-mary-doyle-dekker-centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/96687662-04f2-4590-959d-e4108a9d79c8",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8817/eliza-mary-doyle-dekker-centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/50090891-0831-4d93-8a7e-dc3d438ed8e2",
-    "@type": [
-      "https://schema.org/Article"
-    ],
-    "https://schema.org/inLanguage": [
-      {
-        "@value": "en-GB"
-      }
-    ],
-    "https://schema.org/articleBody": [
-      {
-        "@value": "\n        Eliza Mary Doyle\n            \n        \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n    \n\n\t\t\t\t\nWed, Apr 23, 2025 @ 7:30 pm @ Dekker Centre-Lawrence HallCommunity: Dekker CentreBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t Saskatchewan's award-winning banjo player, Eliza Doyle, wows global audiences with her charismatic performances, clawhammer banjo skills, and refined songwriting. After playing with The Dead South (earning a Juno in 2018), her career soared. Her latest album, \"Pretty Strange,\" features 10 live tracks recorded in Nashville on May 4th, 2022. A 20-show US tour showcases her evolution as an artist, blending catchy melodies with alt-country/folk, infused with banjo, guitar, and pedal steel. Doyle's unique take on Americana keeps listeners engaged and excited.AppearancesDatePresented ByTicketsWed, Apr 23, 2025 @ 7:30 pmDekker CentreBuy Tickets    "
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8817/eliza-mary-doyle-dekker-centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/161f1d27-3001-4782-a23d-b251fbb7d2ce",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Jack Semple Band Gordon Lightfoot Tribute"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-06T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-06T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8703/jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8703"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/JackSemple.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g462620"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Experience the magic of Jack Semple’s tribute to Gordon Lightfoot! Jack Semple with his mesmerizing guitar skills and emotive vocals channels the essence of the legendary Canadian folk icon Gordon Lightfoot. In this unforgettable concert Jack Sempl [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g462640"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g462660"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g462680"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://livingskycasino.ca/entertainment/"
-      },
-      {
-        "@id": "http://www.wikidata.org/entity/Q114432390"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g462740"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8703/jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/0d375883-5745-4d96-b862-9aab738bbe39",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8703/jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/c3427148-ecfd-4ce0-a6ee-e3183817190f",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8703/jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/8ee3030f-6b82-4f3d-91fc-efa7aaadd1cf",
-    "@type": [
-      "https://schema.org/Article"
-    ],
-    "https://schema.org/inLanguage": [
-      {
-        "@value": "en-GB"
-      }
-    ],
-    "https://schema.org/articleBody": [
-      {
-        "@value": "\n        Jack Semple Band Gordon Lightfoot Tribute\n            \n        \n    \n            \n    \n            \n    \n            \n    \n    \n    \n    \n    \n\n\t\t\t\t\nSat, Apr 5, 2025 @ 7:30 pm @ Event CentreCommunity: Swift Current Arts CouncilBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t Experience the magic of Jack Semple’s tribute to Gordon Lightfoot! Jack Semple with his mesmerizing guitar skills and emotive vocals channels the essence of the legendary Canadian folk icon Gordon Lightfoot. In this unforgettable concert Jack Semple takes you on a musical journey through Lightfoot’s greatest hits such as \"If you could read my mind\" \"Sundown\" and \"The wreck of the Edmund Fitzgerald\". Each note and every word resonate with a passion and authenticity that made Lightfoot’s music timeless. Whether you’re a long time fan of Gordon Lightfoot or discovering his music for the first time this tribute concert promises an evening of pure enchantment. Join us for an unforgettable night of nostalgia, emotion, and musical brilliance as Jack Semple pays homage to the legendary legendary Gordon Lightfoot`. Don’t miss this extraordinary celebration of Canadian musical history.AppearancesDatePresented ByTicketsSat, Apr 5, 2025 @ 7:30 pmSwift Current Arts CouncilBuy Tickets    "
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8703/jack-semple-band-gordon-lightfoot-tribute-swift-current-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/1b780280-7dcf-4d5e-bef3-867f36b5571d",
+    "@id": "https://www.osac.ca/temporary/7985a8a3-e0a5-401d-a3fb-d8f7c99aa42c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3540,7 +2026,7 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g464300"
+        "@id": "_:g459360"
       }
     ],
     "http://schema.org/description": [
@@ -3550,17 +2036,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g464320"
+        "@id": "_:g459380"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g464340"
+        "@id": "_:g459400"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g464360"
+        "@id": "_:g459420"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3573,7 +2059,7 @@
     ],
     "http://schema.org/aggregateRating": [
       {
-        "@id": "_:g464420"
+        "@id": "_:g459480"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3583,7 +2069,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/d588f47b-9ae3-4f59-8157-6cd9c50de1d3",
+    "@id": "https://www.osac.ca/temporary/4206de9e-8d27-40fa-b310-4959b4385fe4",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
@@ -3596,7 +2082,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/3552e05b-1449-41ec-9279-232868f8fbef",
+    "@id": "https://www.osac.ca/temporary/f487b905-18b0-4040-b6b3-595d53d4c76d",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#search"
@@ -3609,7 +2095,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/af476363-80e3-491a-bb6f-87b1a8edb02e",
+    "@id": "https://www.osac.ca/temporary/f90e4020-552a-494c-bb33-254a09235a2b",
     "@type": [
       "https://schema.org/Article"
     ],
@@ -3630,7 +2116,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/b4e1990f-cbd8-4eb1-b564-1dc18e816ed5",
+    "@id": "https://www.osac.ca/temporary/2794d5cc-9a35-4771-b371-870fd60f8e37",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -3683,7 +2169,7 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g466900"
+        "@id": "_:g462380"
       }
     ],
     "http://schema.org/description": [
@@ -3693,17 +2179,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g466920"
+        "@id": "_:g462400"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g466940"
+        "@id": "_:g462420"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g466960"
+        "@id": "_:g462440"
       }
     ],
     "http://schema.org/sameAs": [
@@ -3716,7 +2202,7 @@
     ],
     "http://schema.org/aggregateRating": [
       {
-        "@id": "_:g467020"
+        "@id": "_:g462500"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -3726,7 +2212,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/c47da038-30d6-4733-9712-fb9f8c63e4fc",
+    "@id": "https://www.osac.ca/temporary/c463fb0a-19ea-42ae-8f14-41d23551d443",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
@@ -3739,7 +2225,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/11d23d27-48ad-42bd-9d57-d92f5b29bec3",
+    "@id": "https://www.osac.ca/temporary/359718d0-742c-4da7-96d4-58b445060402",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#search"
@@ -3752,7 +2238,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/c8b68dc2-539f-4382-b196-61d5701a74c6",
+    "@id": "https://www.osac.ca/temporary/faf21f6e-0f7c-4118-8f86-2486a04eb5be",
     "@type": [
       "https://schema.org/Article"
     ],
@@ -3773,579 +2259,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/622bdecd-e739-4497-9c79-7f0a2fc6c92d",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Penderecki String Quartet"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-06T21:00:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-06T23:00:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8855/penderecki-string-quartet-regina-musical-club"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8855"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/PendereckiStringQuartet.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g468440"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "The Penderecki String Quartet, entering its 20th year as Quartet-in-Residence at Wilfrid Laurier University in Waterloo, is known for performances demonstrating \"remarkable range of technical excellence and emotional sweep\" (Globe and Mail).  They  [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g468460"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g468480"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g468500"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://darkehall.ca/"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q19877281"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g468560"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8855/penderecki-string-quartet-regina-musical-club"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/48221c04-69e7-4e6c-8be6-cbd7fa001b36",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8855/penderecki-string-quartet-regina-musical-club"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/ac3b9eeb-c945-48d6-a45d-bb983417e12e",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8855/penderecki-string-quartet-regina-musical-club"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/16d92077-5956-4289-9ca4-4690f209f3f8",
-    "@type": [
-      "https://schema.org/Article"
-    ],
-    "https://schema.org/inLanguage": [
-      {
-        "@value": "en-GB"
-      }
-    ],
-    "https://schema.org/articleBody": [
-      {
-        "@value": "\n        Penderecki String Quartet\n            \n        \n    \n            \n    \n            \n    \n    \n    \n    \n    \n    \n\n\t\t\t\t\nSun, Apr 6, 2025 @ 3:00 pm @ Darke HallCommunity: Regina Musical ClubBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t The Penderecki String Quartet, entering its 20th year as Quartet-in-Residence at Wilfrid Laurier University in Waterloo, is known for performances demonstrating \"remarkable range of technical excellence and emotional sweep\" (Globe and Mail).  They have performed in New York (Carnegie Hall), Amsterdam (Concertgebouw), Los Angeles (REDCAT at Disney Hall), St. Petersburg, Paris, Prague, Berlin, Rome, Belgrade, Zagreb, Atlanta, as well as at international festivals in Poland, Italy, Venezuela, Brazil, and China. Described by Fanfare Magazine as \"an ensemble of formidable power and keen musical sensitivity\", the PSQ’s expansive discography includes the chamber music of Brahms and Shostakovich (Electra and Marquis labels) and their recently released Bartok cycle.AppearancesDatePresented ByTicketsSun, Apr 6, 2025 @ 3:00 pmRegina Musical ClubBuy Tickets#    "
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8855/penderecki-string-quartet-regina-musical-club"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/0e6a1eca-3e08-4bcc-bee5-cab792d393d3",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "Rum Ragged"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-17T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-04-17T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8757/rum-ragged-lloydminster-allied-arts-council"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8757"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/rum_ragged.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g469880"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "Rum Ragged, 2021 JUNO Award Nominees, bring a bold, contemporary twist to Newfoundland's folk music. With deep roots and a modern touch, they're known as top performers in their rich musical tradition. Their lineup includes bouzouki, fiddle, bodhran, [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g469900"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g469920"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g469940"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.vicjubatheatre.ca/"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g470000"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8757/rum-ragged-lloydminster-allied-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/8e7f0e15-395b-4768-82c1-b3cad6b9e439",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8757/rum-ragged-lloydminster-allied-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/2fb573e4-304e-4776-a6ff-d18d45b1c693",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8757/rum-ragged-lloydminster-allied-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/dd4bb929-8d10-4f08-a627-62a62dd6e7b7",
-    "@type": [
-      "https://schema.org/Article"
-    ],
-    "https://schema.org/inLanguage": [
-      {
-        "@value": "en-GB"
-      }
-    ],
-    "https://schema.org/articleBody": [
-      {
-        "@value": "\n        Rum Ragged\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nWed, Apr 16, 2025 @ 7:30 pm @ Vic Juba Community Theatre, Lakeland CollegeCommunity: Lloydminster Allied Arts CouncilBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t Rum Ragged, 2021 JUNO Award Nominees, bring a bold, contemporary twist to Newfoundland's folk music. With deep roots and a modern touch, they're known as top performers in their rich musical tradition. Their lineup includes bouzouki, fiddle, bodhran, banjo, guitar, and button accordion, creating vibrant East Coast music. Known for their honest, thought-provoking, and humorous songs, their live shows make them instant favorites. Combining stunning harmonies, exceptional musicianship, and captivating storytelling, Rum Ragged delivers unforgettable experiences. Since forming in 2016, they've toured extensively, playing at premier folk, celtic, and roots venues and releasing four acclaimed albums. Rum Ragged is the real deal.AppearancesDatePresented ByTicketsWed, Apr 16, 2025 @ 7:30 pmLloydminster Allied Arts CouncilBuy Tickets    "
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8757/rum-ragged-lloydminster-allied-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/02142f7f-da09-47b8-bf29-70a87a8953dd",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "The Misery Mountain Boys"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-05-01T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-05-01T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8800/the-misery-mountain-boys-moose-jaw-cultural-centre"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8800"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/TheMiseryMountainBoys.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g472440"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of  [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g472460"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g472480"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g472500"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.moosejawculture.ca/"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q114431478"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g472560"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8800/the-misery-mountain-boys-moose-jaw-cultural-centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/8fac6f9d-e23f-4665-a5d7-89c062857a68",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8800/the-misery-mountain-boys-moose-jaw-cultural-centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/8fc404b0-de21-45e5-ae73-7a23f7877759",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8800/the-misery-mountain-boys-moose-jaw-cultural-centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/d32b5286-0e07-47de-afe6-9358e3ae86e6",
-    "@type": [
-      "https://schema.org/Article"
-    ],
-    "https://schema.org/inLanguage": [
-      {
-        "@value": "en-GB"
-      }
-    ],
-    "https://schema.org/articleBody": [
-      {
-        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nWed, Apr 30, 2025 @ 7:30 pm @ Mae Wilson TheatreCommunity: Moose Jaw Cultural CentreBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsWed, Apr 30, 2025 @ 7:30 pmMoose Jaw Cultural CentreBuy TicketsThu, May 1, 2025 @ 7:30 pmKindersley & District Arts CouncilBuy TicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8800/the-misery-mountain-boys-moose-jaw-cultural-centre"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/a64c8fa2-2acc-4e95-8edc-183c7c3aa7cc",
-    "@type": [
-      "http://schema.org/Event"
-    ],
-    "http://schema.org/name": [
-      {
-        "@value": "The Misery Mountain Boys"
-      }
-    ],
-    "http://schema.org/startDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-05-02T01:30:00+00:00"
-      }
-    ],
-    "http://schema.org/endDate": [
-      {
-        "@type": "http://schema.org/Date",
-        "@value": "2025-05-02T03:30:00+00:00"
-      }
-    ],
-    "http://schema.org/eventAttendanceMode": [
-      {
-        "@value": "https://schema.org/OfflineEventAttendanceMode"
-      }
-    ],
-    "http://schema.org/eventStatus": [
-      {
-        "@value": "https://schema.org/EventScheduled"
-      }
-    ],
-    "http://schema.org/url": [
-      {
-        "@id": "https://osac.ca/performing-arts/event/121-PA8740/the-misery-mountain-boys-kindersley-district-arts-council"
-      }
-    ],
-    "http://schema.org/identifier": [
-      {
-        "@value": "PA8740"
-      }
-    ],
-    "http://schema.org/additionalType": [
-      {
-        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
-      }
-    ],
-    "http://schema.org/image": [
-      {
-        "@id": "https://www.osac.ca/images/PA/images/TheMiseryMountainBoys.jpg"
-      }
-    ],
-    "http://schema.org/performer": [
-      {
-        "@id": "_:g475420"
-      }
-    ],
-    "http://schema.org/description": [
-      {
-        "@value": "You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of  [...]"
-      }
-    ],
-    "http://schema.org/offers": [
-      {
-        "@id": "_:g475440"
-      }
-    ],
-    "http://schema.org/organizer": [
-      {
-        "@id": "_:g475460"
-      }
-    ],
-    "http://schema.org/location": [
-      {
-        "@id": "_:g475480"
-      }
-    ],
-    "http://schema.org/sameAs": [
-      {
-        "@id": "https://www.nrcc.ca/"
-      },
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8740/www.facebook.com/normanritchiecc"
-      },
-      {
-        "@id": "https://www.wikidata.org/wiki/Q114431245"
-      }
-    ],
-    "http://schema.org/aggregateRating": [
-      {
-        "@id": "_:g475540"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8740/the-misery-mountain-boys-kindersley-district-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/b45ae2b1-9220-452e-9397-12aa86325a9d",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8740/the-misery-mountain-boys-kindersley-district-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/ce5fadff-c8bb-4d87-88ab-a8b8f1aad7a9",
-    "http://www.w3.org/1999/xhtml/vocab#role": [
-      {
-        "@id": "http://www.w3.org/1999/xhtml/vocab#search"
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8740/the-misery-mountain-boys-kindersley-district-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/57f26a5b-e06b-432a-ae30-9486624bc22a",
-    "@type": [
-      "https://schema.org/Article"
-    ],
-    "https://schema.org/inLanguage": [
-      {
-        "@value": "en-GB"
-      }
-    ],
-    "https://schema.org/articleBody": [
-      {
-        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nThu, May 1, 2025 @ 7:30 pm @ Norman Ritchie Community CentreCommunity: Kindersley & District Arts CouncilBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsWed, Apr 30, 2025 @ 7:30 pmMoose Jaw Cultural CentreBuy TicketsThu, May 1, 2025 @ 7:30 pmKindersley & District Arts CouncilBuy TicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
-      }
-    ],
-    "http://www.w3.org/ns/prov#wasDerivedFrom": [
-      {
-        "@id": "https://www.osac.ca/performing-arts/event/121-PA8740/the-misery-mountain-boys-kindersley-district-arts-council"
-      }
-    ]
-  },
-  {
-    "@id": "https://www.osac.ca/temporary/e0781c03-7a8c-42f6-b8b3-42a9a8887dd0",
+    "@id": "https://www.osac.ca/temporary/3491413b-abc8-4235-a713-c79083613820",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4398,7 +2312,7 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g477080"
+        "@id": "_:g464660"
       }
     ],
     "http://schema.org/description": [
@@ -4408,17 +2322,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g477100"
+        "@id": "_:g464680"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g477120"
+        "@id": "_:g464700"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g477140"
+        "@id": "_:g464720"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4428,7 +2342,7 @@
     ],
     "http://schema.org/aggregateRating": [
       {
-        "@id": "_:g477200"
+        "@id": "_:g464780"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4438,7 +2352,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/626be766-5191-4358-b73d-a99f26f5a560",
+    "@id": "https://www.osac.ca/temporary/0d25cfb9-a3ea-4b87-a776-77b6742384f8",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
@@ -4451,7 +2365,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/3fca3c72-c7ee-4450-be25-76d65be77b6f",
+    "@id": "https://www.osac.ca/temporary/a8324123-1118-43e9-840b-8603e9f115d5",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#search"
@@ -4464,7 +2378,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/d685c40f-fd40-4e76-af31-845c141d024b",
+    "@id": "https://www.osac.ca/temporary/ec0c6997-7740-4f16-bfcb-82699f2dd90b",
     "@type": [
       "https://schema.org/Article"
     ],
@@ -4475,7 +2389,7 @@
     ],
     "https://schema.org/articleBody": [
       {
-        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nFri, May 2, 2025 @ 7:30 pm @ Leader Community CentreCommunity: Leader & District Arts CouncilTicket Info \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsWed, Apr 30, 2025 @ 7:30 pmMoose Jaw Cultural CentreBuy TicketsThu, May 1, 2025 @ 7:30 pmKindersley & District Arts CouncilBuy TicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
+        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nFri, May 2, 2025 @ 7:30 pm @ Leader Community CentreCommunity: Leader & District Arts CouncilTicket Info \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4485,7 +2399,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/975b1cbf-1c84-493a-91ca-386318a678cf",
+    "@id": "https://www.osac.ca/temporary/f7fe23b3-293f-4753-909e-7fc6437ecc7b",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4538,7 +2452,7 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g478140"
+        "@id": "_:g466760"
       }
     ],
     "http://schema.org/description": [
@@ -4548,17 +2462,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g478160"
+        "@id": "_:g466780"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g478180"
+        "@id": "_:g466800"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g478200"
+        "@id": "_:g466820"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4568,7 +2482,7 @@
     ],
     "http://schema.org/aggregateRating": [
       {
-        "@id": "_:g478260"
+        "@id": "_:g466880"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4578,7 +2492,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/b5c87814-a95c-49ce-8fd6-e5e32a916fe1",
+    "@id": "https://www.osac.ca/temporary/b9a67184-bc49-4483-bff2-4f06d45e5321",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
@@ -4591,7 +2505,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/b2f06f3f-c1fc-4b17-bfd9-be99f262064a",
+    "@id": "https://www.osac.ca/temporary/2db52c01-4566-4b1c-af45-8c0bda65dbec",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#search"
@@ -4604,7 +2518,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/6ea7b343-349d-4012-8451-0007191a3d8c",
+    "@id": "https://www.osac.ca/temporary/425d2a92-d7d4-47ea-9685-b1a8e2172718",
     "@type": [
       "https://schema.org/Article"
     ],
@@ -4615,7 +2529,7 @@
     ],
     "https://schema.org/articleBody": [
       {
-        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nSat, May 3, 2025 @ 7:30 pm @ Eastend Memorial HallCommunity: Eastend Arts Council \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsWed, Apr 30, 2025 @ 7:30 pmMoose Jaw Cultural CentreBuy TicketsThu, May 1, 2025 @ 7:30 pmKindersley & District Arts CouncilBuy TicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
+        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nSat, May 3, 2025 @ 7:30 pm @ Eastend Memorial HallCommunity: Eastend Arts Council \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4625,7 +2539,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/5ccc97e8-dba7-487d-940a-123fd7f585e8",
+    "@id": "https://www.osac.ca/temporary/0a6bbad6-9f3e-46d0-b8e1-ec3f6246020a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4678,7 +2592,7 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g480360"
+        "@id": "_:g469660"
       }
     ],
     "http://schema.org/description": [
@@ -4688,17 +2602,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g480380"
+        "@id": "_:g469680"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g480400"
+        "@id": "_:g469700"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g480420"
+        "@id": "_:g469720"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4708,7 +2622,7 @@
     ],
     "http://schema.org/aggregateRating": [
       {
-        "@id": "_:g480480"
+        "@id": "_:g469780"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4718,7 +2632,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/aa01a909-ac74-4ae4-9c5f-1964a780dfef",
+    "@id": "https://www.osac.ca/temporary/bf674fc8-28b7-4848-ae28-18947880ad3c",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
@@ -4731,7 +2645,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/c874cab6-644e-42a6-8fff-10275d3843bd",
+    "@id": "https://www.osac.ca/temporary/051dd710-b19f-4381-b917-eac09ff9cec0",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#search"
@@ -4744,7 +2658,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/0ed39aea-a3db-4c8c-a3a6-dd5160ab8240",
+    "@id": "https://www.osac.ca/temporary/d7aabebb-af93-454d-a9c3-a212e3b5fb18",
     "@type": [
       "https://schema.org/Article"
     ],
@@ -4755,7 +2669,7 @@
     ],
     "https://schema.org/articleBody": [
       {
-        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nMon, May 5, 2025 @ 7:30 pm @ Kamsack Playhouse TheatreCommunity: Kamsack Arts Council \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsWed, Apr 30, 2025 @ 7:30 pmMoose Jaw Cultural CentreBuy TicketsThu, May 1, 2025 @ 7:30 pmKindersley & District Arts CouncilBuy TicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
+        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nMon, May 5, 2025 @ 7:30 pm @ Kamsack Playhouse TheatreCommunity: Kamsack Arts Council \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4765,7 +2679,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/1603754f-b8d0-411b-81b2-50356804477e",
+    "@id": "https://www.osac.ca/temporary/a0c12dc2-59bb-435d-8feb-fbb6aab8a40e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4818,7 +2732,7 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g483280"
+        "@id": "_:g471880"
       }
     ],
     "http://schema.org/description": [
@@ -4828,17 +2742,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g483300"
+        "@id": "_:g471900"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g483320"
+        "@id": "_:g471920"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g483340"
+        "@id": "_:g471940"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4851,7 +2765,7 @@
     ],
     "http://schema.org/aggregateRating": [
       {
-        "@id": "_:g483400"
+        "@id": "_:g472000"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4861,7 +2775,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/beb60e41-711e-4e53-80eb-478e6734fa87",
+    "@id": "https://www.osac.ca/temporary/e758e47a-b911-4336-9ced-b253015bedd4",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
@@ -4874,7 +2788,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/e3ab38d8-6b21-418b-b48f-f761a8e9cd02",
+    "@id": "https://www.osac.ca/temporary/da1bb7a5-c41c-406a-a5db-729df09faf57",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#search"
@@ -4887,7 +2801,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/9a0e4d40-3855-42e2-8106-acfcf7106296",
+    "@id": "https://www.osac.ca/temporary/f5aab2d9-5e72-4866-b25a-4b6a5a3ef4d9",
     "@type": [
       "https://schema.org/Article"
     ],
@@ -4898,7 +2812,7 @@
     ],
     "https://schema.org/articleBody": [
       {
-        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nTue, May 6, 2025 @ 8:00 pm @ George Layh TheatreCommunity: Langenburg Arts CouncilBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsWed, Apr 30, 2025 @ 7:30 pmMoose Jaw Cultural CentreBuy TicketsThu, May 1, 2025 @ 7:30 pmKindersley & District Arts CouncilBuy TicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
+        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nTue, May 6, 2025 @ 8:00 pm @ George Layh TheatreCommunity: Langenburg Arts CouncilBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -4908,7 +2822,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/cff1c996-2893-4b05-8f6d-ba56d6c4ed5b",
+    "@id": "https://www.osac.ca/temporary/640aac0b-9c64-45be-8709-d192d90fe9f9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -4961,7 +2875,7 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g484920"
+        "@id": "_:g474800"
       }
     ],
     "http://schema.org/description": [
@@ -4971,17 +2885,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g484940"
+        "@id": "_:g474820"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g484960"
+        "@id": "_:g474840"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g484980"
+        "@id": "_:g474860"
       }
     ],
     "http://schema.org/sameAs": [
@@ -4994,7 +2908,7 @@
     ],
     "http://schema.org/aggregateRating": [
       {
-        "@id": "_:g485040"
+        "@id": "_:g474920"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5004,7 +2918,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/4d29f632-35a4-44e0-99f2-d53b11d890d2",
+    "@id": "https://www.osac.ca/temporary/28eee6a3-2b2d-44e1-b678-dfff04f86518",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
@@ -5017,7 +2931,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/58363915-96f2-4313-897e-6ce731edc044",
+    "@id": "https://www.osac.ca/temporary/fce107f5-9022-4a8b-ab1d-79187e3b230e",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#search"
@@ -5030,7 +2944,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/c8fa228d-4963-4c6f-9e1a-c956d759feee",
+    "@id": "https://www.osac.ca/temporary/01a87cbd-abee-4c4b-9ca2-5a7a1933727a",
     "@type": [
       "https://schema.org/Article"
     ],
@@ -5041,7 +2955,7 @@
     ],
     "https://schema.org/articleBody": [
       {
-        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nWed, May 7, 2025 @ 7:30 pm @ Grand TheatreCommunity: Indian Head Theatre and Community Arts Inc.Buy Tickets \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsWed, Apr 30, 2025 @ 7:30 pmMoose Jaw Cultural CentreBuy TicketsThu, May 1, 2025 @ 7:30 pmKindersley & District Arts CouncilBuy TicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
+        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nWed, May 7, 2025 @ 7:30 pm @ Grand TheatreCommunity: Indian Head Theatre and Community Arts Inc.Buy Tickets \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5051,7 +2965,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/a459e353-2936-4bec-bb8a-25001f034dd7",
+    "@id": "https://www.osac.ca/temporary/079f5456-0256-439e-a796-64b958d5e742",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5104,7 +3018,7 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g485500"
+        "@id": "_:g477660"
       }
     ],
     "http://schema.org/description": [
@@ -5114,17 +3028,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g485520"
+        "@id": "_:g477680"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g485540"
+        "@id": "_:g477700"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g485560"
+        "@id": "_:g477720"
       }
     ],
     "http://schema.org/sameAs": [
@@ -5137,7 +3051,7 @@
     ],
     "http://schema.org/aggregateRating": [
       {
-        "@id": "_:g485620"
+        "@id": "_:g477780"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5147,7 +3061,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/71b8fa7f-3945-446d-9c99-8bbb8c92bb37",
+    "@id": "https://www.osac.ca/temporary/7eec9c7b-b0cc-48bf-84e5-da368fbeeeef",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
@@ -5160,7 +3074,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/a8b9c1fb-1ff3-4b31-985f-b4819d48fff4",
+    "@id": "https://www.osac.ca/temporary/9e5c1dbc-0aa6-424c-b8ee-338c6da8969d",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#search"
@@ -5173,7 +3087,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/70040836-d1cd-4887-af0f-7274d07930d9",
+    "@id": "https://www.osac.ca/temporary/d5397d50-b09d-476c-abc8-46ffae65ac50",
     "@type": [
       "https://schema.org/Article"
     ],
@@ -5184,7 +3098,7 @@
     ],
     "https://schema.org/articleBody": [
       {
-        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nFri, May 9, 2025 @ 7:30 pm @ Prince of Wales Cultural & Recreation CentreCommunity: Assiniboia & District Arts CouncilTicket Info \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsWed, Apr 30, 2025 @ 7:30 pmMoose Jaw Cultural CentreBuy TicketsThu, May 1, 2025 @ 7:30 pmKindersley & District Arts CouncilBuy TicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
+        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nFri, May 9, 2025 @ 7:30 pm @ Prince of Wales Cultural & Recreation CentreCommunity: Assiniboia & District Arts CouncilTicket Info \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5194,7 +3108,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/c46573d9-2993-451f-b1bc-42a0505c502f",
+    "@id": "https://www.osac.ca/temporary/29c8e0ae-e0f9-4f57-94ba-dfc48ac2c3c8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -5247,7 +3161,7 @@
     ],
     "http://schema.org/performer": [
       {
-        "@id": "_:g487840"
+        "@id": "_:g480180"
       }
     ],
     "http://schema.org/description": [
@@ -5257,17 +3171,17 @@
     ],
     "http://schema.org/offers": [
       {
-        "@id": "_:g487860"
+        "@id": "_:g480200"
       }
     ],
     "http://schema.org/organizer": [
       {
-        "@id": "_:g487880"
+        "@id": "_:g480220"
       }
     ],
     "http://schema.org/location": [
       {
-        "@id": "_:g487900"
+        "@id": "_:g480240"
       }
     ],
     "http://schema.org/sameAs": [
@@ -5280,7 +3194,7 @@
     ],
     "http://schema.org/aggregateRating": [
       {
-        "@id": "_:g487960"
+        "@id": "_:g480300"
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
@@ -5290,7 +3204,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/e896d62e-2501-4928-8420-4f2634587aff",
+    "@id": "https://www.osac.ca/temporary/4fb671f8-7378-487d-9e4d-0981d3da56d7",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#menu"
@@ -5303,7 +3217,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/a0f8905f-e3bb-4e6e-94c0-eddb6467ca52",
+    "@id": "https://www.osac.ca/temporary/ca33db01-39ed-48dd-9a03-ba1985c065d7",
     "http://www.w3.org/1999/xhtml/vocab#role": [
       {
         "@id": "http://www.w3.org/1999/xhtml/vocab#search"
@@ -5316,7 +3230,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/temporary/1f20bfd1-937c-4fc7-909d-26454f274b8f",
+    "@id": "https://www.osac.ca/temporary/80584cea-97f4-43b5-a0f9-9f85f1b352b4",
     "@type": [
       "https://schema.org/Article"
     ],
@@ -5327,7 +3241,7 @@
     ],
     "https://schema.org/articleBody": [
       {
-        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nSat, May 10, 2025 @ 7:30 pm @ Majestic TheatreCommunity: Biggar & District Arts CouncilBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsWed, Apr 30, 2025 @ 7:30 pmMoose Jaw Cultural CentreBuy TicketsThu, May 1, 2025 @ 7:30 pmKindersley & District Arts CouncilBuy TicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
+        "@value": "\n        The Misery Mountain Boys\n            \n        \n    \n            \n    \n    \n            \n    \n            \n    \n            \n    \n    \n    \n\n\t\t\t\t\nSat, May 10, 2025 @ 7:30 pm @ Majestic TheatreCommunity: Biggar & District Arts CouncilBuy Tickets \n  \n\t\t\t\t  \n\t\t\t\t You might hear the tunes of the Misery Mountain Boys drifting from behind a rotating bookcase of a 1930’s speakeasy. Harkening back to a simpler time, the MMB’s music is infused with tongue in cheek wit, playfulness, and nostalgia. With a mix of catchy originals and contemporary songs reimagined in driving swing, the band’s performance delivers as both classic and fresh. The band  offers a generous variety of sweaty jazz numbers, velvety love songs, and swingin' jump-blues, with plenty of lighthearted stories and laughs along the way.AppearancesDatePresented ByTicketsFri, May 2, 2025 @ 7:30 pmLeader & District Arts CouncilTicket InfoSat, May 3, 2025 @ 7:30 pmEastend Arts CouncilMon, May 5, 2025 @ 7:30 pmKamsack Arts CouncilTue, May 6, 2025 @ 8:00 pmLangenburg Arts CouncilBuy TicketsWed, May 7, 2025 @ 7:30 pmIndian Head Theatre and Community Arts Inc.Buy TicketsFri, May 9, 2025 @ 7:30 pmAssiniboia & District Arts CouncilTicket InfoSat, May 10, 2025 @ 7:30 pmBiggar & District Arts CouncilBuy Tickets    "
       }
     ],
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
