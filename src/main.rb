@@ -32,6 +32,7 @@ def get_entities(entityType)
       urls << entity['href']
     end
   end
+  urls = urls.uniq
   add_url_sparql_file = File.read('./sparql/add_derived_from.sparql')
   graph = RDF::Graph.new
   urls.each do |entity_url|
