@@ -8,6 +8,12 @@ require_relative 'constants/entity_identifiers'
 
 entity_type = ARGV[0]
 
+HTTP_HEADERS = {
+  "User-Agent" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+  "Accept" => "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+  "Accept-Language" => "en-US,en;q=0.9"
+}.freeze
+
 def get_entities(entityType)
 
   if entityType == EntityTypes[:PERFORMANCE]
@@ -19,13 +25,13 @@ def get_entities(entityType)
     main_entity_identifier = EntityIdentifiers[:EXHIBITION_DATES]
     entity_identifier = EntityIdentifiers[:EXHIBITIONS]
   end
-  main_page_html_text = URI.open(main_page_url).read
+  main_page_html_text = URI.open(main_page_url, HTTP_HEADERS).read
   main_doc = Nokogiri::HTML(main_page_html_text)
   main_entities = main_doc.css(main_entity_identifier)
   urls = []
   main_entities.each do |main_entity|
     url = main_entity['href']
-    main_entity_page_html_text = URI.open(url).read
+    main_entity_page_html_text = URI.open(url, HTTP_HEADERS).read
     main_entity_doc = Nokogiri::HTML(main_entity_page_html_text)
     entities =  main_entity_doc.css(entity_identifier)
     entities.each do |entity|
