@@ -9,7 +9,7 @@ require_relative 'constants/entity_identifiers'
 entity_type = ARGV[0]
 
 HTTP_HEADERS = {
-  "User-Agent" => "https://kg.artsdata.ca/en/doc/artsdata-crawler",
+  "User-Agent" => "artsdata-crawler (compatible; +https://kg.artsdata.ca/doc/artsdata-crawler)",
   "Accept" => "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
   "Accept-Language" => "en-US,en;q=0.9"
 }.freeze
