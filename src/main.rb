@@ -54,6 +54,11 @@ def get_entities(entityType)
     end
   end
   
+  if entityType == EntityTypes[:PERFORMANCE]
+    fix_image_urls_sparql_file = File.read("./sparql/fix_pa_image_urls.sparql").gsub("domain_name", EntityURLs[:BASE])
+    graph.query(SPARQL.parse(fix_image_urls_sparql_file, update: true))
+  end
+
   file = File.read("./sparql/replace_blank_nodes.sparql").gsub("domain_name", EntityURLs[:BASE])
   graph.query(SPARQL.parse(file, update: true))
 
@@ -63,4 +68,3 @@ def get_entities(entityType)
 end
 
 get_entities(entity_type)
-

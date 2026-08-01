@@ -1,0 +1,30 @@
+# Fixes OSAC's broken Performing Arts image URLs.
+#
+# OSAC's PA event pages emit schema:image as a bare filename resolved against
+# the site root, e.g. https://www.osac.ca/johner-brothers.jpg, but the actual
+# image lives under /images/PA/images/. Confirmed against live data: 138/138
+# PA event images are affected this way; 0/141 VMA (exhibition) images are,
+# since VMA's schema:image already includes the correct nested path.
+#
+# This is a bug in OSAC's own markup, not in our extraction - we're just
+# reading whatever schema:image value their template outputs. Until OSAC
+# fixes it on their end, this rewrites the URL using the folder pattern that
+# has been consistently correct for every PA image checked so far.
+#
+# Scope: apply only to the performance graph. Do not run this against
+# exhibition output, where schema:image does not need correction.
+
+PREFIX schema: <http://schema.org/>
+
+DELETE {
+  ?entity schema:image ?broken_image .
+}
+INSERT {
+  ?entity schema:image ?fixed_image .
+}
+WHERE {
+  ?entity schema:image ?broken_image .
+  FILTER(REGEX(STR(?broken_image), "^domain_name/[^/#]+\\.(jpg|jpeg|png|gif)$", "i"))
+  BIND(STRAFTER(STR(?broken_image), "domain_name/") AS ?filename)
+  BIND(IRI(CONCAT("domain_name/images/PA/images/", ?filename)) AS ?fixed_image)
+}
