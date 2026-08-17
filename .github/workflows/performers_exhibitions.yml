@@ -36,8 +36,10 @@ jobs:
         include:
           - artifact: performing-arts
             page-url: ${{ needs.collect-urls.outputs.performance-urls }}
+            artifact-file: "output/performance.jsonld"
             custom-sparql: https://raw.githubusercontent.com/culturecreates/artsdata-planet-osac/main/sparql/fix_pa_image_urls.sparql
           - artifact: visual-media-arts
+            artifact-file: "output/exhibition.jsonld"
             page-url: ${{ needs.collect-urls.outputs.exhibition-urls }}
             custom-sparql: ""
     steps:
@@ -45,7 +47,9 @@ jobs:
       uses: culturecreates/artsdata-pipeline-action@v4
       with:
         artifact: ${{ matrix.artifact }}
+        mode: "fetch-push"
         publisher: "${{ secrets.PUBLISHER_URI_GREGORY }}"
         page-url: ${{ matrix.page-url }}
+        token: "${{ secrets.GITHUB_TOKEN }}"
         custom-sparql: ${{ matrix.custom-sparql }}
         urls-are-entities: 'true'
