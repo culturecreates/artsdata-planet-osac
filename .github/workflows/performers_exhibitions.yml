@@ -48,3 +48,4 @@ jobs:
         publisher: "${{ secrets.PUBLISHER_URI_GREGORY }}"
         page-url: ${{ matrix.page-url }}
         custom-sparql: ${{ matrix.custom-sparql }}
+        urls-are-entities: 'true'
