@@ -36,10 +36,10 @@ jobs:
         include:
           - artifact: performing-arts
             page-url: ${{ needs.collect-urls.outputs.performance-urls }}
-            artifact-file: "output/performance.jsonld"
+            artifact-file: "outputs/performance.jsonld"
             custom-sparql: https://raw.githubusercontent.com/culturecreates/artsdata-planet-osac/main/sparql/fix_pa_image_urls.sparql
           - artifact: visual-media-arts
-            artifact-file: "output/exhibition.jsonld"
+            artifact-file: "outputs/exhibition.jsonld"
             page-url: ${{ needs.collect-urls.outputs.exhibition-urls }}
             custom-sparql: ""
     steps:
