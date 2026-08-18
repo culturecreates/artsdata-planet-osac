@@ -50,6 +50,7 @@ jobs:
         mode: "fetch-push"
         publisher: "${{ secrets.PUBLISHER_URI_GREGORY }}"
         page-url: ${{ matrix.page-url }}
+        artifact-file: ${{ matrix.artifact-file }}
         token: "${{ secrets.GITHUB_TOKEN }}"
         custom-sparql: ${{ matrix.custom-sparql }}
         urls-are-entities: 'true'
