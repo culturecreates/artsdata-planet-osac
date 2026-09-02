@@ -98,6 +98,9 @@
         "@id": "https://www.osac.ca/performing-arts/event/121-PA9205/images/logos/OSAC.png"
       },
       {
+        "@id": "https://www.osac.ca/performing-arts/event/121-PA9258/images/logos/OSAC.png"
+      },
+      {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA9194/images/logos/OSAC.png"
       },
       {
@@ -530,6 +533,9 @@
       },
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA9205/images/logos/OSAC.png"
+      },
+      {
+        "@id": "https://www.osac.ca/performing-arts/event/121-PA9258/images/logos/OSAC.png"
       },
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA9194/images/logos/OSAC.png"
@@ -1006,6 +1012,9 @@
         "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA9205&amp;metaname=hotel-california-swift-current-arts-council&amp;Itemid=1819"
       },
       {
+        "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA9258&amp;metaname=jake-s-gift-weyburn-concert-series&amp;Itemid=1819"
+      },
+      {
         "@id": "https://www.osac.ca/index.php?option=com_content&amp;view=article&amp;id=121&amp;event=PA9194&amp;metaname=jessica-rhaye-with-preeper-and-mackay-swift-current-arts-council&amp;Itemid=1819"
       },
       {
@@ -1465,6 +1474,10 @@
       {
         "@language": "en",
         "@value": "hotel-california-swift-current-arts-council"
+      },
+      {
+        "@language": "en",
+        "@value": "jake-s-gift-weyburn-concert-series"
       },
       {
         "@language": "en",
@@ -2046,6 +2059,10 @@
       },
       {
         "@language": "en",
+        "@value": "OSAC Arts Council the Weyburn Concert Series present Jake&#039;s Gift"
+      },
+      {
+        "@language": "en",
         "@value": "OSAC Arts Council the Swift Current Arts Council present Jessica Rhaye with Preeper and MacKay"
       },
       {
@@ -2621,6 +2638,9 @@
       },
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA9205/hotel-california-swift-current-arts-council"
+      },
+      {
+        "@id": "https://www.osac.ca/performing-arts/event/121-PA9258/jake-s-gift-weyburn-concert-series"
       },
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA9194/jessica-rhaye-with-preeper-and-mackay-swift-current-arts-council"
@@ -3938,6 +3958,60 @@
     "http://www.w3.org/ns/prov#wasDerivedFrom": [
       {
         "@id": "https://www.osac.ca/performing-arts/event/121-PA9205/hotel-california-swift-current-arts-council"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/performing-arts/event/121-PA9258/jake-s-gift-weyburn-concert-series",
+    "fb:app_id": [
+      {
+        "@language": "en-gb",
+        "@value": "340486642645761"
+      }
+    ],
+    "http://ogp.me/ns#url": [
+      {
+        "@language": "en-gb",
+        "@value": "http://www.osac.ca/index.php?option=com_content&view=article&id=121&event=PA9258&metaname=jake-s-gift-weyburn-concert-series&Itemid=1819"
+      }
+    ],
+    "http://ogp.me/ns#title": [
+      {
+        "@language": "en-gb",
+        "@value": "jake-s-gift-weyburn-concert-series"
+      }
+    ],
+    "http://ogp.me/ns#description": [
+      {
+        "@language": "en-gb",
+        "@value": "OSAC Arts Council the Weyburn Concert Series present Jake's Gift"
+      }
+    ],
+    "http://ogp.me/ns#keywords": [
+      {
+        "@language": "en-gb",
+        "@value": "Performing Arts, Saskatchewan, Arts Councils,Jake's Gift"
+      }
+    ],
+    "http://ogp.me/ns#type": [
+      {
+        "@language": "en-gb",
+        "@value": "article"
+      }
+    ],
+    "http://ogp.me/ns#image": [
+      {
+        "@language": "en-gb",
+        "@value": "JakesGift.png"
+      },
+      {
+        "@language": "en-gb",
+        "@value": "https://www.osac.caJakesGift.png"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osac.ca/performing-arts/event/121-PA9258/jake-s-gift-weyburn-concert-series"
       }
     ]
   },
@@ -11942,7 +12016,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/7d175ee786422ae9",
+    "@id": "https://www.osac.ca/genid/7bed23168ba7bb4d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12168,7 +12242,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/7b7ab4bb53a73a31",
+    "@id": "https://www.osac.ca/genid/10517e2baaf0a4af",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12398,7 +12472,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/df3c2415e85ab9fa",
+    "@id": "https://www.osac.ca/genid/95ac9633207b2ef1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12631,7 +12705,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/1ea5d139b4b7f137",
+    "@id": "https://www.osac.ca/genid/3ddddcb68307c4ac",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -12856,7 +12930,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/68bbe783559a594d",
+    "@id": "https://www.osac.ca/genid/7b7b90afad68ab31",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13089,7 +13163,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/56036ae8374a742d",
+    "@id": "https://www.osac.ca/genid/9342df1917eb01b3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13315,7 +13389,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/68079c62a6760fac",
+    "@id": "https://www.osac.ca/genid/e843847da377af1d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13464,7 +13538,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/adedd2f4a84f7004",
+    "@id": "https://www.osac.ca/genid/0e601c7666aac597",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13619,7 +13693,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/b97582b55ecd437d",
+    "@id": "https://www.osac.ca/genid/05b049cd2a31f6c8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13788,7 +13862,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/8aeea6a36d7d2d00",
+    "@id": "https://www.osac.ca/genid/8f72e914156632df",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -13948,7 +14022,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/106f70e3db97cd8f",
+    "@id": "https://www.osac.ca/genid/47e88e6cede5fe76",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14108,7 +14182,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/903ed693d49908c4",
+    "@id": "https://www.osac.ca/genid/b3f05941e027abc5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14274,7 +14348,227 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/80510a622ee9dc95",
+    "@id": "https://www.osac.ca/genid/2dd59c953202051e",
+    "@type": [
+      "http://schema.org/Event"
+    ],
+    "http://schema.org/startDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-13T01:00:00+00:00"
+      }
+    ],
+    "http://schema.org/endDate": [
+      {
+        "@type": "http://schema.org/Date",
+        "@value": "2026-11-13T03:00:00+00:00"
+      }
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://osac.ca/performing-arts/event/121-PA9258/jake-s-gift-weyburn-concert-series"
+      }
+    ],
+    "http://schema.org/additionalType": [
+      {
+        "@id": "http://kg.artsdata.ca/resource/PerformingArtsEvent"
+      }
+    ],
+    "http://schema.org/performer": [
+      {
+        "@id": "https://www.osac.ca/genid/8815fea5f41b6058"
+      }
+    ],
+    "http://schema.org/organizer": [
+      {
+        "@id": "https://www.osac.ca/genid/763dbb7c75a12a0a"
+      }
+    ],
+    "http://schema.org/location": [
+      {
+        "@id": "https://www.osac.ca/genid/a421eedbae043b0e"
+      }
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osac.ca/performing-arts/event/121-PA9258/jake-s-gift-weyburn-concert-series"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Jake's Gift"
+      }
+    ],
+    "http://schema.org/identifier": [
+      {
+        "@language": "en",
+        "@value": "PA9258"
+      }
+    ],
+    "http://schema.org/description": [
+      {
+        "@language": "en",
+        "@value": "Jake’s Gift is a surprisingly funny, multi-award-winning drama, about a Canadian WW2 veteran’s reluctant return to Normandy, France, for the 60th anniversary of D-Day. While roaming the shores of Juno Beach, Jake encounters Isabelle, a precocious [...]"
+      }
+    ],
+    "http://schema.org/eventAttendanceMode": [
+      {
+        "@id": "http://schema.org/OfflineEventAttendanceMode"
+      }
+    ],
+    "http://schema.org/eventStatus": [
+      {
+        "@id": "http://schema.org/EventScheduled"
+      }
+    ],
+    "http://schema.org/image": [
+      {
+        "@id": "https://www.osac.ca/images/PA/images/JakesGift.png"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/genid/8815fea5f41b6058",
+    "@type": [
+      "http://schema.org/"
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Jake's Gift"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/genid/763dbb7c75a12a0a",
+    "@type": [
+      "http://schema.org/Organization"
+    ],
+    "http://schema.org/url": [
+      {
+        "@id": "https://www.osac.ca/performing-arts/event/121-PA9258/www.weyburnconcertseries.ca/"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Weyburn Concert Series"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/genid/a421eedbae043b0e",
+    "@type": [
+      "http://schema.org/Place"
+    ],
+    "http://schema.org/geo": [
+      {
+        "@id": "https://www.osac.ca/genid/ff7e40fd6fbd46bf"
+      }
+    ],
+    "http://schema.org/address": [
+      {
+        "@id": "https://www.osac.ca/genid/9299dcae0ec82bff"
+      }
+    ],
+    "http://schema.org/sameAs": [
+      {
+        "@id": "https://www.facebook.com/weyburn.legion"
+      }
+    ],
+    "http://schema.org/name": [
+      {
+        "@language": "en",
+        "@value": "Weyburn Royal Canadian Legion #47"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/genid/ff7e40fd6fbd46bf",
+    "@type": [
+      "http://schema.org/GeoCoordinates"
+    ],
+    "http://schema.org/latitude": [
+      {
+        "@language": "en",
+        "@value": "@49.6627765"
+      }
+    ],
+    "http://schema.org/longitude": [
+      {
+        "@language": "en",
+        "@value": "-103.8557166"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/genid/9299dcae0ec82bff",
+    "@type": [
+      "http://schema.org/PostalAddress"
+    ],
+    "http://schema.org/streetAddress": [
+      {
+        "@language": "en",
+        "@value": "150 3rd St NE,  Weyburn,  SK"
+      }
+    ],
+    "http://schema.org/addressLocality": [
+      {
+        "@language": "en",
+        "@value": "S4H0W2"
+      }
+    ],
+    "http://schema.org/addressRegion": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/postalCode": [
+      {
+        "@language": "en",
+        "@value": ""
+      }
+    ],
+    "http://schema.org/addressCountry": [
+      {
+        "@language": "en",
+        "@value": "CA"
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/genid/8829e184b09be3b6",
+    "@type": [
+      "https://schema.org/Article"
+    ],
+    "http://www.w3.org/ns/prov#wasDerivedFrom": [
+      {
+        "@id": "https://www.osac.ca/performing-arts/event/121-PA9258/jake-s-gift-weyburn-concert-series"
+      }
+    ],
+    "https://schema.org/inLanguage": [
+      {
+        "@language": "en",
+        "@value": "en-GB"
+      }
+    ],
+    "https://schema.org/articleBody": [
+      {
+        "@language": "en",
+        "@value": "\n        \nJake's Gift\n\n \nThu, Nov 12, 2026 @ 7:00 pm\nWeyburn, SK – @ Weyburn Royal Canadian Legion #47\nPresented by Weyburn Concert Series\n\n\n\n\nJake’s Gift is a surprisingly funny, multi-award-winning drama, about a Canadian WW2 veteran’s reluctant return to Normandy, France, for the 60th anniversary of D-Day. While roaming the shores of Juno Beach, Jake encounters Isabelle, a precocious ten-year-old from the local village whose inquisitive nature and charm challenge the old soldier to confront some long-ignored ghosts. At its heart, Jake’s Gift is about the legacy of remembrance and personalizes the story behind one soldier’s grave.\n\n\n\nAppearances\n\n\n\n\n\nThu, Nov 12, 2026 @ 7:00 pm\n\n\n\n\n\nWeyburn, SK - Weyburn Royal Canadian Legion #47\n\nPresented by Weyburn Concert Series\n\n\n\n    "
+      }
+    ],
+    "https://schema.org/headline": [
+      {
+        "@language": "en",
+        "@value": "\n            Performance        "
+      }
+    ]
+  },
+  {
+    "@id": "https://www.osac.ca/genid/21988256793cfbbb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14440,7 +14734,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/fd92cb319141e4fd",
+    "@id": "https://www.osac.ca/genid/c835722579b8634d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14673,7 +14967,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/446ddc9c6cf577ed",
+    "@id": "https://www.osac.ca/genid/b6f50261b4aba1ee",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -14906,7 +15200,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/b41eb81aada528c2",
+    "@id": "https://www.osac.ca/genid/77ab555749e0873a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15039,7 +15333,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/1004c11d4e761d15",
+    "@id": "https://www.osac.ca/genid/deaad6509b5ee414",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15155,7 +15449,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/f9919bfa4c2f8617",
+    "@id": "https://www.osac.ca/genid/95dcf713d8570403",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15369,7 +15663,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/c486dfb2c5524e38",
+    "@id": "https://www.osac.ca/genid/b94f0dba74dc2d4c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15586,7 +15880,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/98de228ef1db5184",
+    "@id": "https://www.osac.ca/genid/ec0a2473df220ab7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15800,7 +16094,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/9263a00153649df5",
+    "@id": "https://www.osac.ca/genid/20481aed7be3b89a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -15933,7 +16227,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/bb08fdbad7fd7c2b",
+    "@id": "https://www.osac.ca/genid/e2adc628966bef2c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16166,7 +16460,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/5f7d3733543c070b",
+    "@id": "https://www.osac.ca/genid/448fc48d8e8e4166",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16383,7 +16677,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/32eb340340032a47",
+    "@id": "https://www.osac.ca/genid/6ec5b266202db7e5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16552,7 +16846,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/649cb6a6f23ff4c5",
+    "@id": "https://www.osac.ca/genid/9cff284718f00429",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -16785,7 +17079,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/6505d01c2abdf466",
+    "@id": "https://www.osac.ca/genid/72bc82f89d69949c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17018,7 +17312,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/1b13b230d05a8738",
+    "@id": "https://www.osac.ca/genid/733da8223fc10a5c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17234,7 +17528,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/dea5e3e63ed5f66b",
+    "@id": "https://www.osac.ca/genid/a20061a9af024b1d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17366,7 +17660,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/8e93ec6672bcce8a",
+    "@id": "https://www.osac.ca/genid/92be5d80e17dd8a8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17596,7 +17890,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/911bfdad03c8e04e",
+    "@id": "https://www.osac.ca/genid/60af318aead77476",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17745,7 +18039,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/48bc7e226b43d47d",
+    "@id": "https://www.osac.ca/genid/54b58cb5a22b88ec",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -17878,7 +18172,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/bf74f6fc65dd61ec",
+    "@id": "https://www.osac.ca/genid/95e645c3714a95dc",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18027,7 +18321,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/1b964d4140e66424",
+    "@id": "https://www.osac.ca/genid/05708006cb73af56",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18143,7 +18437,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/7083ffee2216daf1",
+    "@id": "https://www.osac.ca/genid/d0d2f01b81243ae1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18357,7 +18651,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/3f6e284333085fd0",
+    "@id": "https://www.osac.ca/genid/bf0e2d0cdedf2791",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18485,7 +18779,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/d59989deea00731a",
+    "@id": "https://www.osac.ca/genid/c594c8d3ee99594f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18640,7 +18934,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/b8c965371ec822f8",
+    "@id": "https://www.osac.ca/genid/0d1e1d78a7ba3004",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -18812,7 +19106,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/7aef15b82248b765",
+    "@id": "https://www.osac.ca/genid/0c13724c5bd9a45e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19046,7 +19340,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/57b40d48f2df6b9f",
+    "@id": "https://www.osac.ca/genid/80614da323f43937",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19195,7 +19489,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/c5db3a7795843e61",
+    "@id": "https://www.osac.ca/genid/b71ab830362abdb4",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19328,7 +19622,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/297f385635323319",
+    "@id": "https://www.osac.ca/genid/053bca26dc6ecbf9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19477,7 +19771,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/bf3363d35e1d2b21",
+    "@id": "https://www.osac.ca/genid/ca2bfdfd83829656",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19610,7 +19904,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/32e007153b7d8986",
+    "@id": "https://www.osac.ca/genid/8bb3421fd32d326d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -19827,7 +20121,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/1ef226a670a5a0c3",
+    "@id": "https://www.osac.ca/genid/1bf51630b8ae65e5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20044,7 +20338,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/17e8fb78615bb822",
+    "@id": "https://www.osac.ca/genid/38366ec75dbb006c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20177,7 +20471,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/f67b7ecf2892df7e",
+    "@id": "https://www.osac.ca/genid/a5e8e244321c3673",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20414,7 +20708,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/e0f01a204b5e089c",
+    "@id": "https://www.osac.ca/genid/7dfc9552ae0d80aa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20575,7 +20869,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/bdccbe576606d346",
+    "@id": "https://www.osac.ca/genid/9fb3966b217ecc71",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20691,7 +20985,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/3ed396c62ede61ba",
+    "@id": "https://www.osac.ca/genid/02e98b514a5c34bd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -20840,7 +21134,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/fad405df214ed440",
+    "@id": "https://www.osac.ca/genid/1a0f716df32ebc60",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21049,7 +21343,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/af4a444bf0218f9a",
+    "@id": "https://www.osac.ca/genid/5ccc377b8dc19720",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21285,7 +21579,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/b1dde46ba11684de",
+    "@id": "https://www.osac.ca/genid/13b04458ccc6b2fd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21434,7 +21728,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/a78fbac3d64521be",
+    "@id": "https://www.osac.ca/genid/b4545efc108751ac",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21566,7 +21860,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/a5634a548c8a3269",
+    "@id": "https://www.osac.ca/genid/17ecb81a4b049930",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21699,7 +21993,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/b0afb0de6e5f0a67",
+    "@id": "https://www.osac.ca/genid/0ba4bad171269a9d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -21831,7 +22125,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/25119fa4cc74addd",
+    "@id": "https://www.osac.ca/genid/3efef75826473a42",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22036,7 +22330,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/d82e99bb4a815957",
+    "@id": "https://www.osac.ca/genid/06684403aa14e73d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22185,7 +22479,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/172dbb5a25bfe473",
+    "@id": "https://www.osac.ca/genid/9d4052caa1e51240",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22335,7 +22629,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/d725e8716fc94e34",
+    "@id": "https://www.osac.ca/genid/3c624b29714bbd0c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22468,7 +22762,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/758b46492074682e",
+    "@id": "https://www.osac.ca/genid/24dc047c493b9f44",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22682,7 +22976,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/a7f6d4dc08a7a5c6",
+    "@id": "https://www.osac.ca/genid/b2382a3f1f3900df",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22831,7 +23125,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/56193c9796f121d9",
+    "@id": "https://www.osac.ca/genid/a7549f5918d6f47a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -22964,7 +23258,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/36cd75c5e155edbf",
+    "@id": "https://www.osac.ca/genid/cbc785db6ce1994d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23113,7 +23407,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/518eb4b63f42a3d6",
+    "@id": "https://www.osac.ca/genid/bd53c34a2234b1b1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23269,7 +23563,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/fa3563fca37bc396",
+    "@id": "https://www.osac.ca/genid/fb00fc08d9bb4100",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23418,7 +23712,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/86fe2a85634c090b",
+    "@id": "https://www.osac.ca/genid/f880c13443892c27",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23551,7 +23845,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/d65f8b190faa1b8f",
+    "@id": "https://www.osac.ca/genid/acbf258ae7f46a55",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23700,7 +23994,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/222e1da9562949c7",
+    "@id": "https://www.osac.ca/genid/5de971d9beb685fd",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23838,7 +24132,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/a4ae8f2acbc270ac",
+    "@id": "https://www.osac.ca/genid/b7a9e9999e36f41f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -23971,7 +24265,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/8fb2ffd5ee7dddbf",
+    "@id": "https://www.osac.ca/genid/cc3ccdf782a80627",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24104,7 +24398,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/1d938a7c4f573c98",
+    "@id": "https://www.osac.ca/genid/3a931f863805400a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24275,7 +24569,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/439af595a6f1d006",
+    "@id": "https://www.osac.ca/genid/eebb44b8670ba25c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24396,7 +24690,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/08764bf8abf7bc69",
+    "@id": "https://www.osac.ca/genid/fca7f553c2f762d0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24529,7 +24823,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/0656a1bf6801578c",
+    "@id": "https://www.osac.ca/genid/7e961a1034a3ad8d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24762,7 +25056,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/8a5c53e98eda1a31",
+    "@id": "https://www.osac.ca/genid/ba3e823d05e518a1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -24982,7 +25276,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/61f4544065506e9b",
+    "@id": "https://www.osac.ca/genid/9abe245d06ae6720",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25140,7 +25434,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/cea36a9ce9eaf002",
+    "@id": "https://www.osac.ca/genid/764f91cdff7c61af",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25278,7 +25572,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/6b99edfbd16167de",
+    "@id": "https://www.osac.ca/genid/253d6284bf2f7cf6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25439,7 +25733,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/758516943638820b",
+    "@id": "https://www.osac.ca/genid/91b7e76f6578be59",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25591,7 +25885,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/cb2f74eebca05802",
+    "@id": "https://www.osac.ca/genid/546cb039c6fab090",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25762,7 +26056,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/696477672a6f92d5",
+    "@id": "https://www.osac.ca/genid/76748b3c05a29963",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -25895,7 +26189,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/994431610376d2b8",
+    "@id": "https://www.osac.ca/genid/4c262c0ab61f1d44",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26028,7 +26322,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/74cf36f5a92ef0f0",
+    "@id": "https://www.osac.ca/genid/44c75ce447c7470f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26161,7 +26455,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/7a0b8d0b688e5147",
+    "@id": "https://www.osac.ca/genid/abbddff23e624948",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26299,7 +26593,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/c2863f884639af8d",
+    "@id": "https://www.osac.ca/genid/03418aa4eadcd8be",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26432,7 +26726,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/8d50b3429a94b204",
+    "@id": "https://www.osac.ca/genid/b25090bcb835cd90",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26649,7 +26943,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/fc4412777c7b2736",
+    "@id": "https://www.osac.ca/genid/940ae8bcfb73f3b5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26781,7 +27075,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/00fe6d653e581804",
+    "@id": "https://www.osac.ca/genid/8f4eccf82ee3d904",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -26913,7 +27207,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/b11effc91501b858",
+    "@id": "https://www.osac.ca/genid/1be17196326b6f7c",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27118,7 +27412,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/8d43ed2b29f220d2",
+    "@id": "https://www.osac.ca/genid/a162a447be9a23f2",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27267,7 +27561,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/19e024521612e87b",
+    "@id": "https://www.osac.ca/genid/523723e193a5f5e1",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27416,7 +27710,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/0e81b43f22efeb11",
+    "@id": "https://www.osac.ca/genid/e7f43821307a8f3e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27532,7 +27826,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/ca8b1c0b4b840b39",
+    "@id": "https://www.osac.ca/genid/c77106b66b1c15ba",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27681,7 +27975,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/176e3e8bba3471f5",
+    "@id": "https://www.osac.ca/genid/c15cdb4a6136ebee",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -27910,7 +28204,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/7976a11752207258",
+    "@id": "https://www.osac.ca/genid/5b4ec8e00b877d34",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28054,7 +28348,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/54321a227cfbeee7",
+    "@id": "https://www.osac.ca/genid/1b75f5d4135ecd29",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28187,7 +28481,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/baab3bad28475a2c",
+    "@id": "https://www.osac.ca/genid/b6402989ad6efc5e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28320,7 +28614,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/ff0ecf7aacb2acbd",
+    "@id": "https://www.osac.ca/genid/72edb27e5635acff",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28469,7 +28763,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/d26e62b2a6965d33",
+    "@id": "https://www.osac.ca/genid/dd6ce690ef67ea3f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28607,7 +28901,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/7d45656ac030e6eb",
+    "@id": "https://www.osac.ca/genid/6e0d7e5488166015",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28740,7 +29034,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/22e3bc6dad09733d",
+    "@id": "https://www.osac.ca/genid/f0aae119c3638d85",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -28949,7 +29243,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/124f0002da19a24b",
+    "@id": "https://www.osac.ca/genid/eca468b0c7415eeb",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29081,7 +29375,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/439ad6247be64080",
+    "@id": "https://www.osac.ca/genid/20ad7fe67822a74a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29214,7 +29508,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/49ca99428414b10a",
+    "@id": "https://www.osac.ca/genid/858bb4ba58c7dbce",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29385,7 +29679,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/ecb657a548a9cdee",
+    "@id": "https://www.osac.ca/genid/c2a81d055a80fab8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29506,7 +29800,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/13f397775290d827",
+    "@id": "https://www.osac.ca/genid/42d4ae8426ee0ed5",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29720,7 +30014,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/d4f8d818ed9a2069",
+    "@id": "https://www.osac.ca/genid/16ba2a487010ac4a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -29945,7 +30239,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/b7461acaaba7803e",
+    "@id": "https://www.osac.ca/genid/f8faadbfd379a9e3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30077,7 +30371,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/a7c4ef5253448b90",
+    "@id": "https://www.osac.ca/genid/78367f85fddd1eaa",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30210,7 +30504,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/a5ef764fde511a5d",
+    "@id": "https://www.osac.ca/genid/4872b81f38e96c2d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30359,7 +30653,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/d5740dcd854aa83b",
+    "@id": "https://www.osac.ca/genid/04318b3b5bae991a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30508,7 +30802,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/220749d0056def46",
+    "@id": "https://www.osac.ca/genid/7d3a79ef0d604959",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30641,7 +30935,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/5ee924d86003aebf",
+    "@id": "https://www.osac.ca/genid/4e3b0a04b540130f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30774,7 +31068,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/1a312eb50ce043d5",
+    "@id": "https://www.osac.ca/genid/ad8da1f11af3f429",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -30907,7 +31201,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/2399143af31d6ffc",
+    "@id": "https://www.osac.ca/genid/bb95dfa67f6915f7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31116,7 +31410,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/df8412282a6fa4cb",
+    "@id": "https://www.osac.ca/genid/76ca9e0a57282977",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31232,7 +31526,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/61ad51a5611e0f12",
+    "@id": "https://www.osac.ca/genid/7f3a8819fe43ff46",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31365,7 +31659,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/9a71975114c6fa59",
+    "@id": "https://www.osac.ca/genid/67a5ded68d5bb6a0",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31497,7 +31791,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/0afa5f0fb3d5df15",
+    "@id": "https://www.osac.ca/genid/e31628f538b3a997",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31714,7 +32008,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/99977a538b96392c",
+    "@id": "https://www.osac.ca/genid/1ab59d0724f54a27",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -31951,7 +32245,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/945a74ddffdaf3ab",
+    "@id": "https://www.osac.ca/genid/c810decbed0b3a9e",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32084,7 +32378,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/cd1f388ee4e5cff4",
+    "@id": "https://www.osac.ca/genid/3d01be363b9ae4d7",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32233,7 +32527,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/7a8e2a2f8730cede",
+    "@id": "https://www.osac.ca/genid/37f717e06e4f2127",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32365,7 +32659,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/fe20f74dc2e68ce0",
+    "@id": "https://www.osac.ca/genid/8a4a9bbab354e5db",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32557,7 +32851,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/54b913a3429f474e",
+    "@id": "https://www.osac.ca/genid/91aac68b05c3a92a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32706,7 +33000,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/0b1242513f2a637a",
+    "@id": "https://www.osac.ca/genid/f6da728e305dca97",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32839,7 +33133,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/81beb20fd0d856f0",
+    "@id": "https://www.osac.ca/genid/872bdfc1c6960f4f",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -32981,7 +33275,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/f7d3fbd76f3bebfd",
+    "@id": "https://www.osac.ca/genid/b1c8a47260ab12ff",
     "@type": [
       "https://schema.org/Article"
     ],
@@ -32999,7 +33293,7 @@
     "https://schema.org/articleBody": [
       {
         "@language": "en",
-        "@value": "\n        \nTomatoes Tried To Kill Me But Banjos Saved My Life\n\n    \nMon, Sep 28, 2026 @ 7:30 pm\nKindersley, SK – @ Norman Ritchie Community Centre\nPresented by Kindersley & District Arts Council\nBuy Tickets\n\n\n\n\nTomatoes Tried to Kill Me But Banjos Saved My Life isn’t just a show, it’s a cause. A heartfelt passion project that began as a nudge after Keith Alessi’s life took a major turn, it has been his mission to raise money for causes close to his heart. Through donations, including 100% of all artist fees, the show has raised over $1.2 Million Dollars (CAD) as of December 2025 for various charities including cancer organizations, music programs, community groups and artist funding and development.  All Proceeds from the performances at the King’s Head Theatre will benefit the theatres Angels of Angel program which supports creation and production of new theatrical productions.\n\nThe show has sold out runs across Canada, Off-Broadway in New York City, and at the Edinburgh Fringe Festival in Scotland 3 years in a row. It has toured internationally, including Canada, the US, England, Scotland and Australia.\n\nKeith shares his exceptional true story of leaving the world of corporate board rooms behind to follow his long-delayed passion-playing the banjo!\n\nWhen faced with a deadly cancer battle, his musical pursuit took him on a journey that became the key to saving his life. Told through authentic storytelling, heartfelt humor and music, Keith’s story is an uplifting tale of challenge, triumph, and the the healing power of the arts and music.\n\n\nTheatre\n\nWatch Video:\n\nAppearances\n\n\n\n\n\nThu, Sep 17, 2026 @ 7:30 pm\n\n\n\n\n\nShaunavon, SK - Darkhorse Theatre\n\nPresented by Grand Coteau Heritage & Cultural Centre\n\n\n\n\n\nFri, Sep 18, 2026 @ 7:30 pm\n\n\n\n\n\nLuseland, SK - Luseland Homecoming Hall\n\nPresented by Luseland Arts Council\n\n\n\n\n\nSat, Sep 19, 2026 @ 7:30 pm\n\n\nBuy Tickets\n\n\n\nBiggar, SK - Majestic Theatre\n\nPresented by Biggar & District Arts Council\n\n\n\n\n\nTue, Sep 22, 2026 @ 7:30 pm\n\n\nBuy Tickets\n\n\n\nEstevan, SK - Estevan Royal Canadian Legion\n\nPresented by Estevan Arts Council\n\n\n\n\n\nWed, Sep 23, 2026 @ 7:30 pm\n\n\n\n\n\nAssiniboia, SK - Shurniak Art Gallery\n\nPresented by Assiniboia & District Arts Council\n\n\n\n\n\nThu, Sep 24, 2026 @ 7:30 pm\n\n\nBuy Tickets\n\n\n\nSwift Current, SK - Event Centre\n\nPresented by Swift Current Arts Council\n\n\n\n\n\nSat, Sep 26, 2026 @ 7:30 pm\n\n\n\n\n\nLeader, SK - Leader Community Centre\n\nPresented by Leader & District Arts Council\n\n\n\n\n\nMon, Sep 28, 2026 @ 7:30 pm\n\n\nBuy Tickets\n\n\n\nKindersley, SK - Norman Ritchie Community Centre\n\nPresented by Kindersley & District Arts Council\n\n\n\n\n\nWed, Sep 30, 2026 @ 7:30 pm\n\n\nBuy Tickets\n\n\n\nShellbrook, SK - Shellbrook Theatre\n\nPresented by Shellbrook & District Arts Council\n\n\n\n\n\nThu, Oct 1, 2026 @ 7:30 pm\n\n\n\n\n\nMelfort, SK - The Historic Post Office\n\nPresented by Melfort Arts Council\n\n\n\n\n\nFri, Oct 2, 2026 @ 7:30 pm\n\n\n\n\n\nLa Ronge, SK - Churchill Community High School\n\nPresented by La Ronge Arts Council\n\n\n\n\n\nSat, Oct 3, 2026 @ 7:30 pm\n\n\n\n\n\nNipawin, SK - Evergreen Centre\n\nPresented by Nipawin Performing Arts Group\n\n\n\n\n\nMon, Oct 5, 2026 @ 7:30 pm\n\n\n\n\n\nHudson Bay, SK - St. Stephen's United Church - Hudson Bay\n\nPresented by Hudson Bay Allied Arts Council\n\n\n\n\n\nTue, Oct 6, 2026 @ 7:00 pm\n\n\nBuy Tickets\n\n\n\nYorkton, SK - St. Andrew's United Church - Yorkton\n\nPresented by Yorkton Arts Council\n\n\n\n\n\nWed, Oct 7, 2026 @ 7:30 pm\n\n\nTicket Info\n\n\n\nMoosomin, SK - Moosomin Community Theatre\n\nPresented by Moosomin & District Arts Council\n\n\n\n\n\nThu, Oct 8, 2026 @ 7:30 pm\n\n\n\n\n\nSturgis, SK - Sturgis Community Hall\n\nPresented by Whitehawk Arts Council Inc.\n\n\n\n    "
+        "@value": "\n        \nTomatoes Tried To Kill Me But Banjos Saved My Life\n\n    \nMon, Sep 28, 2026 @ 7:30 pm\nKindersley, SK – @ Norman Ritchie Community Centre\n100% of the net proceeds from this presentation will be allocated to the Kindersley and District Health and Wellness Foundation Inc. to support the purchase of much needed equipment for our rural local health care facilities.Presented by Kindersley & District Arts Council\nBuy Tickets\n\n\n\n\nTomatoes Tried to Kill Me But Banjos Saved My Life isn’t just a show, it’s a cause. A heartfelt passion project that began as a nudge after Keith Alessi’s life took a major turn, it has been his mission to raise money for causes close to his heart. Through donations, including 100% of all artist fees, the show has raised over $1.2 Million Dollars (CAD) as of December 2025 for various charities including cancer organizations, music programs, community groups and artist funding and development.  All Proceeds from the performances at the King’s Head Theatre will benefit the theatres Angels of Angel program which supports creation and production of new theatrical productions.\n\nThe show has sold out runs across Canada, Off-Broadway in New York City, and at the Edinburgh Fringe Festival in Scotland 3 years in a row. It has toured internationally, including Canada, the US, England, Scotland and Australia.\n\nKeith shares his exceptional true story of leaving the world of corporate board rooms behind to follow his long-delayed passion-playing the banjo!\n\nWhen faced with a deadly cancer battle, his musical pursuit took him on a journey that became the key to saving his life. Told through authentic storytelling, heartfelt humor and music, Keith’s story is an uplifting tale of challenge, triumph, and the the healing power of the arts and music.\n\n\nTheatre\n\nWatch Video:\n\nAppearances\n\n\n\n\n\nThu, Sep 17, 2026 @ 7:30 pm\n\n\n\n\n\nShaunavon, SK - Darkhorse Theatre\n\nPresented by Grand Coteau Heritage & Cultural Centre\n\n\n\n\n\nFri, Sep 18, 2026 @ 7:30 pm\n\n\n\n\n\nLuseland, SK - Luseland Homecoming Hall\n\nPresented by Luseland Arts Council\n\n\n\n\n\nSat, Sep 19, 2026 @ 7:30 pm\n\n\nBuy Tickets\n\n\n\nBiggar, SK - Majestic Theatre\n\nPresented by Biggar & District Arts Council\n\n\n\n\n\nTue, Sep 22, 2026 @ 7:30 pm\n\n\nBuy Tickets\n\n\n\nEstevan, SK - Estevan Royal Canadian Legion\n\nPresented by Estevan Arts Council\n\n\n\n\n\nWed, Sep 23, 2026 @ 7:30 pm\n\n\n\n\n\nAssiniboia, SK - Shurniak Art Gallery\n\nPresented by Assiniboia & District Arts Council\n\n\n\n\n\nThu, Sep 24, 2026 @ 7:30 pm\n\n\nBuy Tickets\n\n\n\nSwift Current, SK - Event Centre\n\nPresented by Swift Current Arts Council\n\n\n\n\n\nSat, Sep 26, 2026 @ 7:30 pm\n\n\n\n\n\nLeader, SK - Leader Community Centre\n\nPresented by Leader & District Arts Council\n\n\n\n\n\nMon, Sep 28, 2026 @ 7:30 pm\n\n\nBuy Tickets\n\n\n\nKindersley, SK - Norman Ritchie Community Centre\n\nPresented by Kindersley & District Arts Council\n\n\n\n\n\nWed, Sep 30, 2026 @ 7:30 pm\n\n\nBuy Tickets\n\n\n\nShellbrook, SK - Shellbrook Theatre\n\nPresented by Shellbrook & District Arts Council\n\n\n\n\n\nThu, Oct 1, 2026 @ 7:30 pm\n\n\n\n\n\nMelfort, SK - The Historic Post Office\n\nPresented by Melfort Arts Council\n\n\n\n\n\nFri, Oct 2, 2026 @ 7:30 pm\n\n\n\n\n\nLa Ronge, SK - Churchill Community High School\n\nPresented by La Ronge Arts Council\n\n\n\n\n\nSat, Oct 3, 2026 @ 7:30 pm\n\n\n\n\n\nNipawin, SK - Evergreen Centre\n\nPresented by Nipawin Performing Arts Group\n\n\n\n\n\nMon, Oct 5, 2026 @ 7:30 pm\n\n\n\n\n\nHudson Bay, SK - St. Stephen's United Church - Hudson Bay\n\nPresented by Hudson Bay Allied Arts Council\n\n\n\n\n\nTue, Oct 6, 2026 @ 7:00 pm\n\n\nBuy Tickets\n\n\n\nYorkton, SK - St. Andrew's United Church - Yorkton\n\nPresented by Yorkton Arts Council\n\n\n\n\n\nWed, Oct 7, 2026 @ 7:30 pm\n\n\nTicket Info\n\n\n\nMoosomin, SK - Moosomin Community Theatre\n\nPresented by Moosomin & District Arts Council\n\n\n\n\n\nThu, Oct 8, 2026 @ 7:30 pm\n\n\n\n\n\nSturgis, SK - Sturgis Community Hall\n\nPresented by Whitehawk Arts Council Inc.\n\n\n\n    "
       }
     ],
     "https://schema.org/headline": [
@@ -33010,7 +33304,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/54d4a5b25536d0da",
+    "@id": "https://www.osac.ca/genid/4d472c70db8679b8",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33142,7 +33436,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/706dd004a2f1ed7a",
+    "@id": "https://www.osac.ca/genid/85d8e7caa465d6b3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33351,7 +33645,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/92fe33940086e305",
+    "@id": "https://www.osac.ca/genid/c6d62d75d51ecdb9",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33565,7 +33859,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/6f7c7d703d6cf835",
+    "@id": "https://www.osac.ca/genid/6f4568635603e9b6",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33698,7 +33992,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/c336fc90a363919f",
+    "@id": "https://www.osac.ca/genid/d2e180b69464646d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33831,7 +34125,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/884b7e4684cfedc9",
+    "@id": "https://www.osac.ca/genid/a27e321676758035",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -33963,7 +34257,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/6cedb3c70c0d6668",
+    "@id": "https://www.osac.ca/genid/99eac425b1eddd0d",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -34101,7 +34395,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/a9cfda8eb760f900",
+    "@id": "https://www.osac.ca/genid/9f5ffec305a39a2a",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -34234,7 +34528,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/a0b5dcf4e8106c46",
+    "@id": "https://www.osac.ca/genid/0e55105c5f7b0431",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -34370,7 +34664,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/5295dcd597c9fc91",
+    "@id": "https://www.osac.ca/genid/474a46ff1c7d5dac",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -34491,7 +34785,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/2f06e2bf13debbe3",
+    "@id": "https://www.osac.ca/genid/e5a3f6292e69a2d3",
     "@type": [
       "http://schema.org/Event"
     ],
@@ -34623,7 +34917,7 @@
     ]
   },
   {
-    "@id": "https://www.osac.ca/genid/8ce10b7e58d16aa3",
+    "@id": "https://www.osac.ca/genid/8c43c5d16009dd12",
     "@type": [
       "http://schema.org/Event"
     ],
